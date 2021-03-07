@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Jesús González Álvarez     :octocat: JesusGonzalezA     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Julio Campos Rodríguez     :octocat: juliocamposrd
 
 ----- 
 
