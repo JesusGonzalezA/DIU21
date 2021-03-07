@@ -38,7 +38,7 @@ angular.module("angular", [])
 				Quote: "La vida se basa en los pequeños momentos",
 				Age: 28,
 				Occupation: "Contable en empresa de consultoría",
-				Family: "Con pareja desde hace 2 años y medio",
+				Family: "Con pareja desde hace 3 años",
 				Location: "Sevilla",
 				Character: "Muy familiar y muy casero",
 				PersonalityTraits: [
