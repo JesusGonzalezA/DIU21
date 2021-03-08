@@ -28,9 +28,7 @@ angular.module("angular", [])
 
                 /*************************************/
                 /**** PRIMERA PERSONA          *******/
-                /*** Cambiar datos             *******/
                 /*************************************/
-
 
 				Id: 1,
 				Name: "Asier Arrieta",
@@ -42,27 +40,86 @@ angular.module("angular", [])
 				Location: "Sevilla",
 				Character: "Muy familiar y muy casero",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ 
+						Name: "Introvertido/reservado Vs  Extrov/activo ", 
+						Value: 1 
+					},
+					{ 
+						Name: "Realista/práctico  Vs    Intuición/imaginativo", 
+						Value: 1 
+					},
+					{ 
+						Name: "Racional/analitico  Vs   Emocional/impulsivo", 
+						Value: 4 
+					},
+					{ 
+						Name: "Flemático/apático  Vs   Colérico/visceral", 
+						Value: 2 
+					}
 				],
-				Goals: ["Encontrar trabajo en una ciudad más cercana a su familia", "Adoptar a un perro con su novia", "Abrir un restaurante familiar en su ciudad de nacimiento, Bilbao", "Obtener el título de inglés B2"],
-				Frustrations: ["Piensa que el esfuerzo en su trabajo no se le reconoce como debería", "Le gustaría dedicarle más tiempo a su pasión, la cocina", "Se siente inseguro al creer que su nivel de inglés es muy inferior al de sus compañeros"],
-				Bio: "Nació en Bilbao y a los 18 años se trasladó a Madrid a estudiar el grado de Finanzas y Contabilidad, al acabar la carrera le llegaron varias ofertas y se acabó decantando por la de una importante empresa consultora en Sevilla. A los 2 años de estar en Sevilla, en uno de sus cursos en Madrid conoció a Ainhoa, una chica de Logroño que también reside en Sevilla y con la que está actualmente y lleva 3 años de relación. Pese a llevar 5 años en Sevilla, no tiene muchos amigos y la mayor parte de su tiempo lo emplea en cocinar y estar con su novia. No le gusta nada viajar, es por ello que en sus vacaciones le encanta estar con su familia.",
+				Goals: [
+					"Encontrar trabajo en una ciudad más cercana a su familia", 
+					"Adoptar a un perro con su novia", 
+					"Abrir un restaurante familiar en su ciudad de nacimiento, Bilbao", 
+					"Obtener el título de inglés B2"
+				],
+				Frustrations: [
+					"Piensa que el esfuerzo en su trabajo no se le reconoce como debería", 
+					"Le gustaría dedicarle más tiempo a su pasión, la cocina", 
+					"Se siente inseguro al creer que su nivel de inglés es muy inferior al de sus compañeros"
+				],
+				Bio: "Nació en Bilbao y a los 18 años se trasladó a Madrid a "
+				     + "estudiar el grado de Finanzas y Contabilidad, al acabar"
+					 + " la carrera le llegaron varias ofertas y se acabó"
+					 + " decantando por la de una importante empresa consultora"
+					 + " en Sevilla. A los 2 años de estar en Sevilla, en uno"
+					 + " de sus cursos en Madrid conoció a Ainhoa, una chica de"
+					 + " Logroño que también reside en Sevilla y con la que"
+					 + " está actualmente y lleva 3 años de relación. Pese a "
+					 + "llevar 5 años en Sevilla, no tiene muchos amigos y la"
+					 + " mayor parte de su tiempo lo emplea en cocinar y estar "
+					 + "con su novia. No le gusta nada viajar, es por ello que"
+					 + " en sus vacaciones le encanta estar con su familia.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 3 },
-					{ Name: "Movil", Value: 3 },
-					{ Name: "RRSS", Value: 2 },
-					{ Name: "Software", Value: 2 }
-
+					{ 
+						Name: "TIC/Internet", 
+						Value: 3 
+					},
+					{ 
+						Name: "Movil", 
+						Value: 3 
+					},
+					{ 
+						Name: "RRSS", 
+						Value: 2 
+					},
+					{ 
+						Name: "Software", 
+						Value: 2 
+					}
 				],
-                Contextos: "Quiere sorprender a su novia regalándole un viaje por su tercer aniversario. A Ainhoa le encanta viajar, siempre lo hace con sus amigas y Asier cree que ha llegado el momento de hacer un esfuerzo por ir con ella.",
+                Contextos: "Quiere sorprender a su novia regalándole un viaje " 
+						  + "por su tercer aniversario. A Ainhoa le encanta"
+						  + " viajar, siempre lo hace con sus amigas y Asier"
+						  + " cree que ha llegado el momento de hacer un "
+						  + "esfuerzo por ir con ella.",
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 3 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 5 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
+					{ 
+						Name: "Publicidad Tradicional", 
+						Value: 3
+					},
+					{ 
+						Name: "Online & Social Media", 
+						Value: 2
+					},
+					{ 
+						Name: "Recomendaciones & sugerencias", 
+						Value: 5
+					},
+					{ 
+						Name: "Persona confianza (amigos, boca a boca)", 
+						Value: 4
+					}
 				]
 			},
 			{
