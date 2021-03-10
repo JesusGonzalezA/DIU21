@@ -33,7 +33,7 @@ angular.module("angular", [])
                 /*** Cambiar datos             *******/
                 /*************************************/
 
-				Id: 1,
+				Id: 0,
 				Name: "Asier Arrieta",
                 Photo: "asier.png",
 
