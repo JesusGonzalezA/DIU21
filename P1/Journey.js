@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) {
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU1.ElReencuentro";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/JesusGonzalezA/DIU21";
 
 		$scope.JourneyIndex = 0;
 
@@ -33,15 +33,15 @@ angular.module("angular", [])
                 /*** Cambiar datos             *******/
                 /*************************************/
 
-				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Id: 1,
+				Name: "Asier Arrieta",
+                Photo: "asier.png",
 
                 /*** PASO #1: INSPIRACION ***/
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                goal1: "Quiere regalarle un viaje sorpresa a su novia.",
+                touch1: "Móvil",
+                feel1: "2",
+                con1: "Ver que fechas tienen libres ambos para irse juntos ",
                 ima1: "cartoon-planning.png",
 
                 /*** PASO #2: DECICION ***/
