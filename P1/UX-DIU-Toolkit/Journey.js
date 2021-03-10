@@ -41,48 +41,48 @@ angular.module("angular", [])
                 goal1: "Quiere regalarle un viaje sorpresa a su novia.",
                 touch1: "Móvil",
                 feel1: "2",
-                con1: "Ver que fechas tienen libres ambos para irse juntos ",
-                ima1: "cartoon-planning.png",
+                con1: "Pensar que destinos pueden gustarle más para viajar en verano",
+                ima1: "cartoon-thinking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Busca los itinerarios más completos",
+                touch2: "Móvil (app Passporter)",
+                feel2: "1",
+                con2: "Demasiada información que no le permite filtrar",
+                ima2: "cartoon-KO.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Decide buscar un itinerario de un lugar cercano a Sevilla para aprovechar el buen tiempo de verano",
+                touch3: "Móvil (app Passporter)",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                con3: "Está muy indeciso a la hora de decidir si ir a un lugar con playa o no",
                 ima3: "cartoon-phone.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                goal4: "Busca opciones de itinerarios en lugares de costa",
+                touch4: "Móvil (app Passporter)",
+                feel4: "3",
+                con4: "Buscar itinerarios con mayor valoración. Quiere tenerlo todo preparado ya que él no tiene experiencia",
+                ima4: "cartoon-planning.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
+                goal5: "Encuentra 2 opciones por la costa de Cádiz",
+                touch5: "Móvil (app Passporter)",
                 feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                con5: "No está seguro sobre si merece la pena pagar por obtener un itinerario con más información sobre lugares dónde alojarse, links y teléfonos, o encargarse él de todo eso",
+                ima5: "cartoon-deciding.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                goal6: "Contrata el itinerario premium por la Costa de la Luz",
+                touch6: "Móvil (app Passporter)",
+                feel6: "2",
+                con6: "Está agobiado ya que pese a contener mucha información útil, pensaba que tendría que planificar menos a la hora de viajar",
+                ima6: "cartoon-happy.png",
 
 			},
 			{
