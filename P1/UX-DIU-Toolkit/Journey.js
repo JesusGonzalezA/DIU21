@@ -30,10 +30,9 @@ angular.module("angular", [])
 
                 /*************************************/
                 /**** PRIMER USER JOURNEY MAP  *******/
-                /*** Cambiar datos             *******/
                 /*************************************/
 
-				Id: 0,
+				Id: 1,
 				Name: "Asier Arrieta",
                 Photo: "asier.png",
 
@@ -88,61 +87,117 @@ angular.module("angular", [])
 			{
                 /*************************************/
                 /**** SEGUNDO USER JOURNEY MAP *******/
-                /***      Cambiar datos        *******/
                 /*************************************/
 
-				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Id: 2,
+				Name: "César Honorio Castillo",
+				Photo: "historia.jpg",
 
-				 /*** PASO #1: INSPIRACION ***/
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                /*** PASO #1: INSPIRACION ***/
+                goal1: "Quiere sorprender a sus estudiantes con una nueva metodología.",
+                touch1: "Periódicos y revistas",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                con1: "Pensar cómo dar clases presenciales con seguridad",
+                ima1: "cartoon-phoningangry.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Descarga Passporter y busca cómo crear un itirenario",
+                touch2: "Móvil (app Passporter)",
+                feel2: "1",
+                con2: "No hay ayuda ni instrucciones",
+                ima2: "cartoon-KO.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Tras encontar el formulario, rellena los destinos que le interesan",
+                touch3: "Móvil (app Passporter)",
+                feel3: "4",
+                con3: "No sabe qué sitios incluir, quiere que el itirenario sea perfecto",
+                ima3: "cartoon-phone.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Ve su itirenario, pero no le convence. Cree que debe de añadir una foto que hizo de la catedral.",
+                touch4: "Móvil (app Passporter)",
+                feel4: "1",
+                con4: "No puede añadir una foto hecha por él mismo.",
+                ima4: "cartoon-KO.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Encuentra una foto parecida a la suya y la añade. Sólo queda terminar su itirenario",
+                touch5: "Móvil (app Passporter)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "No está seguro de cómo de atractivo será su itirenario de cara al público",
+                ima5: "cartoon-deciding.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Observa el itirenario creado y lo comparte con sus alumnos.",
+                touch6: "Móvil (app Passporter)",
+                feel6: "3",
+                con6: "Está abrumado ya que hay mucha funcionalidad que piensa que aún no ha descubierto." +
+                   + " Sin embargo, no lo mirará. Ya ha aprendido lo básico y le basta.",
+                ima6: "cartoon-resting.png",
+
+			},
+            {
+
+                /*************************************/
+                /**** TERCER USER JOURNEY MAP  *******/
+                /*************************************/
+
+				Id: 3,
+				Name: "María Fernández",
+                Photo: "soriano.jpeg",
+
+                /*** PASO #1: INSPIRACION ***/
+                goal1: "Sopesa la opción de visitar otra ciudad mientras realiza su preparación para la competición",
+                touch1: "Móvil",
+                feel1: "5",
+                con1: "Pensar en un destino que tenga buenas rutas para correr e instalaciones para entrenar",
+                ima1: "cartoon-thinking.png",
+
+                /*** PASO #2: DECICION ***/
+                goal2: "Busca las ciudades con más itinerarios",
+                touch2: "Móvil (app Passporter)",
+                feel2: "4",
+                con2: "Demasiada información que no le permite filtrar",
+                ima2: "cartoon-phone.png",
+
+                /*** PASO #3: ACTUA ***/
+
+                goal3: "Decide buscar entre las ciudades con más itinerarios, aquellas con los itinerarios mejor valorados y los más completos",
+                touch3: "Móvil (app Passporter)",
+                feel3: "2",
+                con3: "Guardar y comparar las mejores ciudades con itinerarios ",
+                ima3: "cartoon-phone.png",
+
+                /*** PASO #4: OBSERVA ***/
+
+                goal4: "Viendo los itinerarios decide ir a Praga",
+                touch4: "Móvil (app Passporter)",
+                feel4: "5",
+                con4: "Se guarda los mejores itinerarios de la ciudad y organiza su viaeje",
+                ima4: "cartoon-planning.png",
+
+                 /*** PASO #5: ANALIZA ***/
+
+                goal5: "Organizando el viaje ve que no hay transporte disponible para ir",
+                touch5: "Internet",
+                feel5: "1",
+                con5: "Esta enfadada porque tenía mucha ilusión de visitar la ciudad y ahora debe elegir otra ciudad",
+                ima5: "cartoon-KO.png",
 
 
+                /*** PASO #6: CONCLUSION ***/
+
+                goal6: "Al final contrata varios itinerarios para visitar Roma",
+                touch6: "Movil (app Passporter)",
+                feel6: "3",
+                con6: "Esta feliz por poder visitar y entrenar en una ciudad desconocida para ella pero ya había decido visitar Praga y creía que era la mejor decision",
+                ima6: "cartoon-deciding.png",
 
 			}
 		];
@@ -150,3 +205,4 @@ angular.module("angular", [])
 		$scope.model = $scope.Journeys[0];
 
 	}])
+r
