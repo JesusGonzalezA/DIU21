@@ -60,6 +60,10 @@ oportunidad para trabajar.
 - Valoración final: 75
 - Comentario sobre la valoración: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios más novatos.
 
+### (valoración y conclusiones de esta etapa)
+
+### Tabla
+
 |Usability review| | | | | |
 |:----|:----|:----|:----|:----|:----|
 | | | | | | |
@@ -185,4 +189,3 @@ oportunidad para trabajar.
 |* Good (between 69 and 89) - Users should be able to use this site or system with relative ease and should be able to complete the vast majority of important tasks.| | | | | |
 |* Excellent (more than 89) - This site or system provides an excellent user experience for users. Users should be able to complete all important tasks on the site or system.| | | | | |
 
-(valoración y conclusiones de esta etapa)
