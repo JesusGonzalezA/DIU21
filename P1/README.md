@@ -45,9 +45,20 @@ del turismo y favorece a comercios más tradicionales, que se han visto más per
 pandemia que vivimos. Además, permite a personas que vivían de realizar visitas guiadas volver a disponer de una 
 oportunidad para trabajar. 
 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+### Personas
+
+#### Persona 1
+#### Persona 2
+
+### User Journey Map
+
+#### Persona 1
+#### Persona 2
+
+### Revisión de usabilidad:
+- [Enlace al documento](https://github.com/JesusGonzalezA/DIU21/tree/master/P1/Usability-review.xlsx)
+- Valoración final: 75
+- Comentario sobre la valoración: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios más novatos.
 
 
 (valoración y conclusiones de esta etapa)
