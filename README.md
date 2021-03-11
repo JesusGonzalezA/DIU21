@@ -1,8 +1,7 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU1_01ElReencuentro.  Curso: 2020/21
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,8 +14,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Jesús González Álvarez     :octocat: JesusGonzalezA     
- * :bust_in_silhouette:   Julio Campos Rodríguez     :octocat: juliocamposrd
+ * :bust_in_silhouette: Jesús González Álvarez     :octocat: JesusGonzalezA     
+ * :bust_in_silhouette: Julio Campos Rodríguez     :octocat: juliocamposrd
+ * :bust_in_silhouette: Alejandro Soriano Morante  :octocat: Soriano00
 
 ----- 
 
@@ -32,7 +32,10 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Hemos analizado las aplicaciones **[Passporter](https://passporterapp.com/)**, **[Tripit](https://www.tripit.com/web)**, **[Sygic Travel](https://www.sygic.com/es/travel)**, **[CheckMyTrip](https://www.checkmytrip.com/cmtweb/#/home)**. De entre ellas hemos escogido **[Passporter](https://passporterapp.com/)**, puesto que creemos que puede ser una buena solución para impulsar el turismo local.
+
+[Más información](https://github.com/JesusGonzalezA/DIU21/tree/master/P1)
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
