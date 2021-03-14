@@ -55,6 +55,7 @@ También hemos creado a César, un profesor de universidad que quiere acercarse 
 ![Persona 2](Images/Persona2.jpg)
 
 #### María Fernández
+Finalmente, hemos creado a María, una persona muy extrovertida que está acostumbrada a usar redes sociales y aplicaciones móviles y cuyo fin es buscar rutas para viajar y entrenar a la vez.
 ![Persona 3](Images/Persona3.jpg)
 
 ---
@@ -62,14 +63,22 @@ También hemos creado a César, un profesor de universidad que quiere acercarse 
 ### User Journey Map
 
 #### Asier Arrieta
+**Adquirir un itinerario.**
 
+Asier nunca ha viajado, al contrario que su pareja Ainhoa. Hace un mes cumplieron 3 años de novios, por lo que Asier quiere sorprenderle regalándole una experiencia vinculada a una de sus pasiones, viajar.  Es por ello que quiere hacer uso de Passporter, con el objetivo de compensar su inseguridad, adquiriendo un itinerario ya preparado por alguien con mucha más experiencia en el tema de los viajes.
 ![Journey 1](Images/Journey1.jpg)
+
 #### César Honorio
 **Crear una ruta.**
+
 César es una persona tímida con respecto a la tecnología. Prefiere atender a medios tradicionales y la comunicación boca a boca. Últimamente se siente muy frustrado por cómo la pandemia ha afectado a su metodología docente, hasta que descubre en un periódico la app de Passporter [(ver la noticia aquí)](https://www.larazon.es/viajes/20200628/ubnlbv74afcipb7ctzqchuy45a.html). Se decanta por crear un itirenario para enseñar a sus alumnos la historia a pie de calle y, quizás en un futuro, poder ganar un ingreso extra.
 ![Journey 2](Images/Journey2.jpg)
 
 #### María Fernández
+**Entrenar y viajar**
+
+La historia trata sobre cómo María utiliza la aplicación para encontrar las ciudades con mejores itinerarios 
+para visitar a la vez que entrenar, a pesar la falta de recursos de la aplicación para organizar su viaje.
 ![Journey 3](Images/Journey3.jpg)
 
 ### Revisión de usabilidad:

@@ -44,11 +44,15 @@ Miembros
 ![Persona 1](P1/Images/Persona1.jpg)
 ![Persona 2](P1/Images/Persona2.jpg)
 ![Persona 3](P1/Images/Persona3.jpg)
-![Método UX](P1/img/JourneyMap.png) 1.c User Journey Map
+
+
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+>>> Seleccionamos estas experiencias porque son los casos de uso más habituales en esta aplicación y porque demuestran si la app cumple con su cometido.
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![Journey 1](P1/Images/Journey1.jpg)
+![Journey 2](P1/Images/Journey2.jpg)
+![Journey 3](P1/Images/Journey3.jpg)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
