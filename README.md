@@ -39,10 +39,12 @@ Miembros
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+>>> Seleccionamos a dos personas que quieren viajar y a otra que quiere crear viajes. Esta última, presenta dificultades con la tecnología. 
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Persona 1](P1/Images/Persona1.jpg)
+![Persona 2](P1/Images/Persona2.jpg)
+![Persona 3](P1/Images/Persona3.jpg)
+![Método UX](P1/img/JourneyMap.png) 1.c User Journey Map
 ----
 
 

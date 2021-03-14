@@ -47,13 +47,30 @@ oportunidad para trabajar.
 
 ### Personas
 
-#### Persona 1
-#### Persona 2
+#### Asier Arrieta
+En primer lugar hemos creado a Asier, un chico joven muy introvertido, con unas capacidades limitadas en el uso de aplicaciones móviles y muy reticente a salir de su zona de comfort. Asier cree que puede ser buena idea usar la app Passporter para hacerle un regalo a su novia.
+![Persona 1](Images/Persona1.jpg)
+#### César Honorio
+También hemos creado a César, un profesor de universidad que quiere acercarse a sus alumnos innovando en su metodología docente. Piensa que Passporter puede ayudarle a enseñar a sus alumnos y a jóvenes de una forma más dinámica en estos tiempos de pandemia.
+![Persona 2](Images/Persona2.jpg)
+
+#### María Fernández
+![Persona 3](Images/Persona3.jpg)
+
+---
 
 ### User Journey Map
 
-#### Persona 1
-#### Persona 2
+#### Asier Arrieta
+
+![Journey 1](Images/Journey1.jpg)
+#### César Honorio
+**Crear una ruta.**
+César es una persona tímida con respecto a la tecnología. Prefiere atender a medios tradicionales y la comunicación boca a boca. Últimamente se siente muy frustrado por cómo la pandemia ha afectado a su metodología docente, hasta que descubre en un periódico la app de Passporter [(ver la noticia aquí)](https://www.larazon.es/viajes/20200628/ubnlbv74afcipb7ctzqchuy45a.html). Se decanta por crear un itirenario para enseñar a sus alumnos la historia a pie de calle y, quizás en un futuro, poder ganar un ingreso extra.
+![Journey 2](Images/Journey2.jpg)
+
+#### María Fernández
+![Journey 3](Images/Journey3.jpg)
 
 ### Revisión de usabilidad:
 - [Enlace al documento](https://github.com/JesusGonzalezA/DIU21/tree/master/P1/Usability-review.xlsx)
