@@ -86,7 +86,8 @@ para visitar a la vez que entrenar, a pesar la falta de recursos de la aplicaci�
 - Valoración final: 75
 - Comentario sobre la valoración: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios más novatos.
 
-### (valoración y conclusiones de esta etapa)
+### Valoración y conclusiones
+La app, en línea general está bastante bien y es una idea innovadora. Al ser un proyecto que aún no es maduro, pensamos que cumple bien con su cometido y la funcionalidad básica. Sin embargo, para alcanzar esta madurez y poder llegar a más usuarios pensamos que deberían de mejorar la experiencia de usuario: añadiendo sistemas de ayuda, filtros para ver la información relevante al usuario y mejorando la accesibilidad de la misma (añadiendo label a botones y cuidando sistemas como el Talkback).
 
 ### Tabla
 
