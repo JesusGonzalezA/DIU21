@@ -49,14 +49,14 @@ oportunidad para trabajar.
 ### Personas
 
 #### Asier Arrieta
-En primer lugar hemos creado a Asier, un joven contable residente en Sevilla muy introvertido, con unas capacidades limitadas en el uso de aplicaciones móviles y muy reticente a salir de su zona de comfort. Asier cree que puede ser buena idea usar la app Passporter para hacerle un regalo a su novia.
+En primer lugar hemos creado a Asier, un joven contable residente en Sevilla muy introvertido, con unas capacidades limitadas en el uso de aplicaciones móviles y muy reticente a salir de su zona de comfort. Su pasión es la cocina y le encantaría abrir un restaurante en su ciudad, Bilbao.
 ![Persona 1](Images/Persona1.jpg)
 #### César Honorio
 También hemos creado a César, un profesor de universidad que quiere acercarse a sus alumnos innovando en su metodología docente. Piensa que Passporter puede ayudarle a enseñar a sus alumnos y a jóvenes de una forma más dinámica en estos tiempos de pandemia.
 ![Persona 2](Images/Persona2.jpg)
 
 #### María Fernández
-Finalmente, hemos creado a María, una persona muy extrovertida que está acostumbrada a usar redes sociales y aplicaciones móviles y cuyo fin es buscar rutas para viajar y entrenar a la vez.
+Finalmente, hemos creado a María, una joven atleta muy extrovertida que está acostumbrada a usar redes sociales y aplicaciones móviles y cuyo fin es buscar rutas para viajar y entrenar a la vez.
 ![Persona 3](Images/Persona3.jpg)
 
 ---
