@@ -38,6 +38,7 @@ transportes y alojamientos relativos a su próxima nueva aventura. Trabaja con e
 | Opción de pago        |     ✔️     |    ❌   |      ✔️       |     ❌     |
 | Video 3D 360  grados sitios más importantes       |      ❌      |    ❌    |      ✔️      |      ❌     |
 | Información sobre seguridad                       |      ❌      |    ✔️    |      ❌      |      ❌     |
+|       Total           |  8/14 = 57% |   6/14 = 43% |    10/14 = 71%   |  9/14 = 64% |
 
 #### Justificación elección de Passporter
 Nos hemos decantado por la aplicación Passporter porque es una aplicación que ofrece una experiencia más real 
@@ -48,7 +49,7 @@ oportunidad para trabajar.
 ### Personas
 
 #### Asier Arrieta
-En primer lugar hemos creado a Asier, un chico joven muy introvertido, con unas capacidades limitadas en el uso de aplicaciones móviles y muy reticente a salir de su zona de comfort. Asier cree que puede ser buena idea usar la app Passporter para hacerle un regalo a su novia.
+En primer lugar hemos creado a Asier, un joven contable residente en Sevilla muy introvertido, con unas capacidades limitadas en el uso de aplicaciones móviles y muy reticente a salir de su zona de comfort. Asier cree que puede ser buena idea usar la app Passporter para hacerle un regalo a su novia.
 ![Persona 1](Images/Persona1.jpg)
 #### César Honorio
 También hemos creado a César, un profesor de universidad que quiere acercarse a sus alumnos innovando en su metodología docente. Piensa que Passporter puede ayudarle a enseñar a sus alumnos y a jóvenes de una forma más dinámica en estos tiempos de pandemia.
