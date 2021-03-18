@@ -201,8 +201,10 @@ const personas = [{
         "Teme no desarrollar todo su potencial.",  
         "Se agobia por si no es capaz de disfrutar el momento."
     ],
-    Bio: "Nació en Madrid y empezó a entrenar atletismo a los 6 años y "
-    + "estudio el grado de Ciencia del Deporte mientras competía en campeonatos"
+    Bio: "Nació en Madrid y empezó a entrenar atletismo a los 6 años. Sus padres murieron cuando ella"
+    + " sólo tenía 10 años en un accidente de coche y su hermano mayor, en ese momento de 18 años la cuidó "
+    + "y la acompañó siempre, convirtiéndose en su mayor ejemplo. Como él "
+    + "estudió el grado de Ciencia del Deporte mientras competía en campeonatos"
     + " nacionales. Al acabar el grado hace 3 años decidió dedicarse por completo"
     + " al deporte de manera profesional. Hace año y medio sufrió una lesión en la rodilla"
     + " que la tuvo apartada lejos de la competicion unos meses y ante la perspectiva "
