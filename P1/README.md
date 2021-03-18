@@ -49,7 +49,7 @@ oportunidad para trabajar.
 ### Personas
 
 #### Asier Arrieta
-En primer lugar hemos creado a Asier, un joven contable residente en Sevilla muy introvertido, con unas capacidades limitadas en el uso de aplicaciones móviles y muy reticente a salir de su zona de comfort. Su pasión es la cocina y le encantaría abrir un restaurante en su ciudad, Bilbao.
+En primer lugar hemos creado a Asier, un joven contable residente en Sevilla, con unas capacidades limitadas en el uso de aplicaciones móviles y muy reticente a salir de su zona de comfort. Le encantaría sorprender a su novia regalándole un viaje.
 ![Persona 1](Images/Persona1.jpg)
 #### César Honorio
 También hemos creado a César, un profesor de universidad que quiere acercarse a sus alumnos innovando en su metodología docente. Piensa que Passporter puede ayudarle a enseñar a sus alumnos y a jóvenes de una forma más dinámica en estos tiempos de pandemia.

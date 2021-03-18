@@ -11,7 +11,7 @@ const personas = [{
     Quote: "La vida se basa en los pequeños momentos",
     Age: 28,
     Occupation: "Contable en empresa de consultoría",
-    Family: "Con pareja desde hace 3 años",
+    Family: "Es hijo único. Tiene pareja desde hace 3 años",
     Location: "Sevilla",
     Character: "Muy familiar y muy casero",
     PersonalityTraits: [
@@ -44,7 +44,7 @@ const personas = [{
         "Se siente inseguro al creer que su nivel de inglés es muy inferior al de sus compañeros"
     ],
     Bio: "Nació en Bilbao y a los 18 años se trasladó a Madrid a "
-         + "estudiar el grado de Finanzas y Contabilidad, al acabar"
+         + "estudiar el grado de Finanzas y Contabilidad. Al acabar"
          + " la carrera le llegaron varias ofertas y se acabó"
          + " decantando por la de una importante empresa consultora"
          + " en Sevilla. A los 2 años de estar en Sevilla, en uno"
@@ -73,11 +73,11 @@ const personas = [{
             Value: 2 
         }
     ],
-    Contextos: "Quiere sorprender a su novia regalándole un viaje " 
-              + "por su tercer aniversario. A Ainhoa le encanta"
-              + " viajar, siempre lo hace con sus amigas y Asier"
-              + " cree que ha llegado el momento de hacer un "
-              + "esfuerzo por ir con ella.",
+    Contextos: "Necesita una fuerte inversión para cumplir su sueño, " 
+              + " que es abrir un restaurante familiar en Bilbao. Actualmente no tiene"
+              + " los recursos necesarios para ello, por lo que está "
+              + " buscando socios para embarcarse en esta experiencia, así como  "
+              + " inversores para ayudarle en el esfuerzo económico que quiere hacer.",
     PreferredChannels: [
         { 
             Name: "Publicidad Tradicional", 
@@ -109,7 +109,7 @@ const personas = [{
     Photo: "historia.jpg",
     Quote: "La historia es un incesante volver a empezar",
     Age: 62,
-    Occupation: "Profesor de Historia de España",
+    Occupation: "Catedrático de Historia de España en USAL (Universidad de Salamanca)",
     Family: "Mujer y dos hijas.",
     Location: "Salamanca, España",
     Character: "Tímido, paciente y curioso.",
@@ -141,9 +141,11 @@ const personas = [{
     Bio: "Nació en Salamanca, donde ha pasado gran parte de su vida."
     + " Siempre le ha encantado la historia y viajar, quizás"
     + " influenciado en su padre, quien le convenció para convertirse"
-    + " en profesor de la universidad. Él es muy feliz con su trabajo,"
+    + " en profesor en la Universidad de Salamanca. Él es muy feliz con su trabajo,"
     + " le encanta investigar y leer libros, así como tratar con gente"
-    + " con la que comparte intereses. Todos los días por la mañana al llegar"
+    + " con la que comparte intereses. Está casado y tiene dos hijas, de 19 y 16 años respectivamente, "
+    + "a las que quiere con locura, pero su pasión y obsesión por su trabajo no le ha "
+    + " permitido pasar demasiado tiempo con ellas. Todos los días por la mañana al llegar"
     + " a la facultad se retira su sombrero y su gabardina y cuenta a sus alumnos "
     + " alguna historieta de cuando era joven, le hace sentirse vivo. ",
     Tech: [
