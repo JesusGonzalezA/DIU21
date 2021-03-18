@@ -1,7 +1,7 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01ElReencuentro.  Curso: 2020/21
+Grupo: DIU1_ElReencuentro.  Curso: 2020/21
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -14,9 +14,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette: Jesús González Álvarez     :octocat: JesusGonzalezA     
- * :bust_in_silhouette: Julio Campos Rodríguez     :octocat: juliocamposrd
- * :bust_in_silhouette: Alejandro Soriano Morante  :octocat: Soriano00
+ * :bust_in_silhouette: Jesús González Álvarez     :octocat: [JesusGonzalezA](https://github.com/JesusGonzalezA)     
+ * :bust_in_silhouette: Julio Campos Rodríguez     :octocat: [juliocamposrd](https://github.com/juliocamposrd)
+ * :bust_in_silhouette: Alejandro Soriano Morante  :octocat: [Soriano00](https://github.com/Soriano00)
 
 ----- 
 
