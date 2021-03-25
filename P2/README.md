@@ -1,7 +1,11 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
+
 **Malla receptora de información**
+Hemos elegido utilizar esta herramienta porque nos permite descubrir los puntos fuertes 
+de la aplicación y en qué se debe mejorar o qué se debe añadir para dar solución a las
+necesidades de los usuarios y las preguntas que se hacen al utilizar la app.
 
 
 ### PROPUESTA DE VALOR
