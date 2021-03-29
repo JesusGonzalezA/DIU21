@@ -18,9 +18,9 @@ y comercios/servicios que sigan estos valores y principios y conectarlos.
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
-
+**User Task Matrix** 
+Hemos decidido elegir esta herramienta para definir correctamente a los grupos de usuarios en los que nos
+vamos a centrar y la funcionalidad que le vamos a ofrecer.
 
 ### ARQUITECTURA DE INFORMACIÓN
 
