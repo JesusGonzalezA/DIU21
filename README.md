@@ -66,10 +66,7 @@ Miembros
 
 >>> ![Malla receptora de información](P2/Images/MallaReceptora.png)
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> El turismo como lo conocemos resulta insostenible y abandona comercios tradicionales y zonas rurales. Ofrecemos una solución que promueva el turismo sostenible, dando visibilidad a comercios locales.
 
 
 
@@ -80,7 +77,8 @@ Miembros
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> **User matrix:** se trata de una técnica de diseño que permite identificar las tareas más relevantes para los usuarios, así como los grupos de usuarios más críticos para el correcto funcionamiento de la solución propuesta. Se deben de enumerar en una tabla los grupos de usurios principales (columnas) y las tareas que el sistema ofrecerá (filas). Se indica la frecuencia (alta, media, baja) de uso de una tarea por un grupo de usuario en cada celda de la tabla y se indicará con un color especial las tareas/perfiles de usuarios más importantes.
+>>> **Task flow:**
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
