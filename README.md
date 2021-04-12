@@ -65,12 +65,6 @@ Miembros
 
 
 >>> ![Malla receptora de información](P2/Images/MallaReceptora.png)
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
