@@ -35,21 +35,21 @@ vamos a centrar y la funcionalidad que le vamos a ofrecer.
 
 | Label | Siginificado |
 | -- | -- |
-| Login | Inicio de sesión de usuraio en la aplicación |
-| Home | Página principal de la aplicación |
-| Search | Página de búsqueda de la aplicación |
-| Settings | Página de configuración de la aplicación |
-| Form | Página de formulario con la cual podemos a |
-| User | Página de perfil de usuario de la aplicación |
-| Notificaciones |  |
-| Comercio |  |
-| Ubicación |  |
-| Producto |  |
-| Map |  |
-| Post |  |
-| Contact |  |
-| Gallery |  |
-| Upload |  |
+| Login | Inicio de sesión / Registro  de usuraio en la aplicación |
+| Home | Página principal de la aplicación. Resumen de los posts y navegación completa |
+| Search | Página de búsqueda de comercios, actividades, lugares... |
+| Settings | Página para configurar los ajustes de la aplicación |
+| Form | Página de formulario con la cual podemos añadir un nuevo comercio, una nueva actividad o nuevos productos a un comercio existente  |
+| User | Página de perfil de usuario de la aplicación. En ella el usuario será capaz de modificar y ver su perfil de la aplicación|
+| Notificaciones | Página que nos muestra las últimas notificaciones que recibe un usuario |
+| Comercio | Página que nos muestra toda la información necesaria de un comercio registrado en nuestra aplicación |
+| Ubicación | Página que nos muestra los comercios y actividades que se realizan en la ubicación buscada por el usuario  |
+| Producto | Página que muestra el resumen de un producto que vende el comercio. Contiene información dada por el dueño del mismo y comentarios de los usuarios acerca del mismo, si los hubiere |
+| Map | Página externa. Mapa que muestra la ubicación del comercio |
+| Post | Publicaciones realizadas por el comercio y por los usuarios sobre el mismo. |
+| Contact | Correo/Marcador de teléfono móvil propios del dispositivo |
+| Gallery | Página que muestra una galería de fotos subidas por el comercio y por los usuarios sobre el mismo |
+| Upload | Formulario para subir un nuevo post |
 
 ### Prototipo Lo-FI Wireframe 
 

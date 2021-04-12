@@ -4,11 +4,11 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU1_ElReencuentro.  Curso: 2020/21
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> EcoTravel
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> EcoTravel consiste en una aplicación que busca ofrecer una alternativa a aquellas personas que desean viajar respetando la naturaleza y descubriendo lugares y comercios rurales y que respeten la tradición, productos y lugares. Pretende crear una comunidad de usuarios y comercios/servicios que sigan estos valores y principios y conectarlos.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -60,11 +60,11 @@ Miembros
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> ![Malla receptora de información](P2/Images/MallaReceptora.png)
 
 
  Interesante | Críticas     
@@ -81,7 +81,7 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> ![Propuesta de valor](P2/Images/PropuestaValor.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
