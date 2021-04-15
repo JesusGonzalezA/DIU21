@@ -89,10 +89,6 @@ Nuestro proyecto (EcoTravel) consiste en una aplicación que busca ofrecer una a
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-
 | Label | Siginificado |
 | -- | -- |
 | Login | Inicio de sesión / Registro  de usuraio en la aplicación |
