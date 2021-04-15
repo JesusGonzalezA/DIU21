@@ -51,8 +51,15 @@ vamos a centrar y la funcionalidad que le vamos a ofrecer.
 | Gallery | Página que muestra una galería de fotos subidas por el comercio y por los usuarios sobre el mismo |
 | Upload | Formulario para subir un nuevo post |
 
-### Prototipo Lo-FI Wireframe 
-
+### Prototipo Lo-FI Wireframe
+En el siguiente Wireframe tratamos de representar en forma de boceto la pantalla de inicio que se verá nada más acceder a la app. 
+![Wireframe Home](Images/EcoTravel_HOME.jpg)
+A continuación se muestra el Wireframe referente a la pantalla que verá el usuario cuando quiera añadir una actividad, establecimiento, etc.
+![Wireframe Add](Images/addLOFI.jpg)
+El siguiente Wireframe tratará de representar la pantalla que observa el usuario cuando selecciona una actividad para conocer más detalle sobre la misma.
+![Wireframe Actividad](Images/mirarLOFI.jpg)
+Por último, con este Wireframe tratamos de presentar la pantalla con la que se encuentra un usuario cuando va a llevar a cabo una búsqueda de una actividad concreta.
+![Wireframe Buscar](Images/searchLOFI.jpg)
 
 ### Conclusiones  
 Hacer uso de la malla receptora de información diseñada en esta etapa, aunque pueda parecer algo completamente diferente al resto de apartados que se llevan a cabo en esta práctica, nos ha ayudado bastante de cara a plantear nuestra idea de aplicación, intentando aprovechar los puntos fuertes de Passporter y mejorar sus puntos débiles. Posteriormente, la propuesta de valor nos ha ayudado a definir de una manera clara nuestros propósitos, al igual que la matriz de tareas que ha sido capaz de hacernos identificar de una manera más fácil las operaciones, y el grupo de usuarios que van a hacer uso de nuestro sistema.
