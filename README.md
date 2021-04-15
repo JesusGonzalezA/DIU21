@@ -3,6 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 
 Grupo: DIU1_ElReencuentro.  Curso: 2020/21
 
+
 Proyecto: 
 >>> EcoTravel
 
@@ -60,18 +61,22 @@ Miembros
 ## Paso 2. UX Design  
 
 
+[Más información](https://github.com/JesusGonzalezA/DIU21/tree/master/P2)
+
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+>>> El turismo como lo conocemos resulta insostenible y abandona comercios tradicionales y zonas rurales. Ofrecemos una solución que promueva el turismo sostenible, dando visibilidad a comercios locales.
 
 >>> ![Malla receptora de información](P2/Images/MallaReceptora.png)
     
->>> El turismo como lo conocemos resulta insostenible y abandona comercios tradicionales y zonas rurales. Ofrecemos una solución que promueva el turismo sostenible, dando visibilidad a comercios locales.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
+Nuestro proyecto (EcoTravel) consiste en una aplicación que busca ofrecer una alternativa a aquellas personas que desean viajar respetando la naturaleza y descubriendo lugares y comercios rurales y que respeten la tradición, productos y lugares. Pretende crear una comunidad de usuarios y comercios/servicios que sigan estos valores y principios y conectarlos.
+
 >>> ![Propuesta de valor](P2/Images/PropuestaValor.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
@@ -87,13 +92,46 @@ Miembros
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+
+| Label | Siginificado |
+| -- | -- |
+| Login | Inicio de sesión / Registro  de usuraio en la aplicación |
+| EcoTravel | Página principal de la aplicación. Resumen de los posts y navegación completa |
+| Búsqueda | Página de búsqueda de comercios, actividades, lugares... |
+| Ajustes | Página para configurar los ajustes de la aplicación |
+| Registrar nueva actividad | Página de formulario con la cual podemos añadir un nuevo comercio, una nueva actividad o nuevos productos a un comercio existente  |
+| Mi perfil | Página de perfil de usuario de la aplicación. En ella el usuario será capaz de modificar y ver su perfil de la aplicación|
+| Notificaciones | Página que nos muestra las últimas notificaciones que recibe un usuario |
+| Resultado de búsqueda | Página que nos muestra toda la información necesaria de un comercio/actividad registrado en nuestra aplicación |
+| Comercio | Página que nos muestra toda la información necesaria de un comercio registrado en nuestra aplicación |
+| Actividad cultural | Página que nos muestra toda la información necesaria de una actividad cultural o excursión registrada en nuestra aplicación |
+| Ubicación | Página que nos muestra los comercios y actividades que se realizan en la ubicación buscada por el usuario  |
+| Producto | Página que muestra el resumen de un producto que vende el comercio. Contiene información dada por el dueño del mismo y comentarios de los usuarios acerca del mismo, si los hubiere |
+| Mapa | Página externa. Mapa que muestra la ubicación del comercio |
+| Post | Publicaciones realizadas por el comercio y por los usuarios sobre el mismo. |
+| Contacto | Correo/Marcador de teléfono móvil propios del dispositivo |
+| Galería | Página que muestra una galería de fotos subidas por el comercio y por los usuarios sobre el mismo |
+| Subir imagen | Formulario para subir una nueva imagen para añadir al post |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+
+En el siguiente Wireframe tratamos de representar en forma de boceto la pantalla de inicio que se verá nada más acceder a la app.
+
+![Wireframe Ecotravel](P2/Images/EcoTravel_HOME.jpg)
+
+A continuación se muestra el Wireframe referente a la pantalla que verá el usuario cuando quiera añadir una actividad, establecimiento, etc.
+
+![Wireframe Registrar una nueva actividad](P2/Images/addLOFI.jpg)
+
+El siguiente Wireframe tratará de representar la pantalla que observa el usuario cuando selecciona una actividad para conocer más detalle sobre la misma.
+
+![Wireframe Resultado de búsqueda](P2/Images/mirarLOFI.jpg)
+
+Por último, con este Wireframe tratamos de presentar la pantalla con la que se encuentra un usuario cuando va a llevar a cabo una búsqueda de una actividad concreta.
+
+![Wireframe Buscar](P2/Images/searchLOFI.jpg)
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
