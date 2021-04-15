@@ -55,4 +55,5 @@ vamos a centrar y la funcionalidad que le vamos a ofrecer.
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Hacer uso de la malla receptora de información diseñada en esta etapa, aunque pueda parecer algo completamente diferente al resto de apartados que se llevan a cabo en esta práctica, nos ha ayudado bastante de cara a plantear nuestra idea de aplicación, intentando aprovechar los puntos fuertes de Passporter y mejorar sus puntos débiles. Posteriormente, la propuesta de valor nos ha ayudado a definir de una manera clara nuestros propósitos, al igual que la matriz de tareas que ha sido capaz de hacernos identificar de una manera más fácil las operaciones, y el grupo de usuarios que van a hacer uso de nuestro sistema.
+Para finalizar, nos gustaría destacar lo útil que nos ha sido desarrollar el Sitemap justo antes de ponernos con el diseño de los Wireframe.
