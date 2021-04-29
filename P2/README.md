@@ -60,7 +60,8 @@ EcoTravel pretende crear una comunidad de viajeros que cumplan con nuestros valo
 | Producto | Página que muestra el resumen de un producto que vende el comercio. Contiene información dada por el dueño del mismo y comentarios de los usuarios acerca del mismo, si los hubiere |
 | Mapa | Página externa. Mapa que muestra la ubicación del comercio |
 | Post | Publicaciones realizadas por el comercio y por los usuarios sobre el mismo. |
-| Contacto | Correo/Marcador de teléfono móvil propios del dispositivo |
+| Contacto | Chat propio de la app y Correo/Marcador de teléfono móvil propios del dispositivo |
+| Valoraciones | Consultar/Añadir valoraciones |
 | Galería | Página que muestra una galería de fotos subidas por el comercio y por los usuarios sobre el mismo |
 | Subir imagen | Formulario para subir una nueva imagen para añadir al post |
 
