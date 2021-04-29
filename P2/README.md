@@ -29,7 +29,10 @@ Nuestra aplicación pretende que los usuarios puedan buscar comercios (restauran
 Hemos decidido elegir esta herramienta para definir correctamente a los grupos de usuarios en los que nos
 vamos a centrar y la funcionalidad que le vamos a ofrecer.
 
-![Task Matrix](Images/TaskMatrix.jpg)
+* Eco-traveller: se trata de un usuario que utiliza la aplicación para buscar nuevas experiencias (viajes, sitios para comer, actividades...), compartir las experiencias que ha vivido, subir nuevas (como excursiones, rutas, recomendaciones...) y valorar comercios registrados en la aplicación.
+* Pequeños comercios: se trata de un tipo de usuario especial porque debe de verificar su actividad comercial. Hemos usado el término pequeño porque queremos ayudar especialmente a este tipo de comercios.
+
+![Task Matrix](Images/TaskMatrix.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 
@@ -46,8 +49,9 @@ EcoTravel pretende crear una comunidad de viajeros que cumplan con nuestros valo
 | EcoTravel | Página principal de la aplicación. Resumen de los posts y navegación completa |
 | Búsqueda | Página de búsqueda de comercios, actividades, lugares... |
 | Ajustes | Página para configurar los ajustes de la aplicación |
-| Registrar nueva actividad | Página de formulario con la cual podemos añadir un nuevo comercio, una nueva actividad o nuevos productos a un comercio existente  |
-| Mi perfil | Página de perfil de usuario de la aplicación. En ella el usuario será capaz de modificar y ver su perfil de la aplicación|
+| Servicio técnico | Contactar con el servicio técnico
+| Añadir | Página de formulario con la cual podemos añadir un nuevo comercio, una nueva actividad o nuevos productos a un comercio existente  |
+| Perfil | Página de perfil de usuario de la aplicación. En ella el usuario será capaz de modificar y ver su perfil de la aplicación|
 | Notificaciones | Página que nos muestra las últimas notificaciones que recibe un usuario |
 | Resultado de búsqueda | Página que nos muestra toda la información necesaria de un comercio/actividad registrado en nuestra aplicación |
 | Comercio | Página que nos muestra toda la información necesaria de un comercio registrado en nuestra aplicación |
