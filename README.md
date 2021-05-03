@@ -140,6 +140,13 @@ Por último, con este Wireframe tratamos de presentar la pantalla con la que se 
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+
+
+Para el moodboard hemos elegido unas fotos que nos inspiraban y nos recordaban a los valores que queremos representar. Con esto hemos elegido una paleta de colores que nos permita transmitir las sensaciones que queremos que encuentren los usuarios con nosotros (ecología, calidez, transparencia, simplicidad, etc). Hemos seleccionado dos fuentes que sean muy legibles y sencillas y seleccionado unos iconos para poder crear nuestros diseños. 
+Además, hemos añadido unos comentarios que muestran cómo queremos que los usuarios nos identifiquen.
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P3)
+![Moodboard](P3/Images/Moodboard.png)
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
