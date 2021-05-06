@@ -23,6 +23,8 @@ Lo que queremos transmitir nos ha condicionado mucho a la hora de escoger la pal
 
 ![Paleta de colores](Images/Paleta.png)
 
+#### Test de contraste
+
 ### Tipografía
 
 Hemos elegido dos fuentes distintas: una con serif y otra sin serif. Esto es debido a que en un futuro nos gustaría hacer unas impresiones con el fin de dar físicamente a los locales que trabajen con nosotros un cartel que represente que es un sitio que cumple con los valores que planteamos desde la plataforma y los usuarios de la aplicación valoran mucho el comercio en cuestión.
@@ -51,7 +53,10 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 ### Iconos
 
 ### Logo
-
+#### B/N
+#### Sin símbolos
+#### Sólo con el nombre
+#### 24x24
 
 ### Resumen 
 
@@ -59,6 +64,10 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 ![Moodboard](Images/Moodboard.png)
 
 ## Landing Page
+
+
+## Guidelines
+
 
 
 ## Mockup: LAYOUT HI-FI
