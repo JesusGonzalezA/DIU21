@@ -15,7 +15,9 @@ Hemos escogido estas imágenes porque nos transmiten tradición, calidez y nos t
 
 Lo que queremos transmitir nos ha condicionado mucho a la hora de escoger la paleta de colores.
 
-* Verde ( #1D6F1E y #92SSE92 ): transmite  naturaleza, tranquilidad, ecología.
+* Negro ( #000000 ): transmite elegancia y claridad.
+
+* Verde ( #1D6F1E y #008A00 ): transmite  naturaleza, tranquilidad, ecología.
 
 * Amarillo ( #F8ECB4 ): transmite  alegría, prosperidad, optimismo, luz.
 
@@ -24,6 +26,9 @@ Lo que queremos transmitir nos ha condicionado mucho a la hora de escoger la pal
 ![Paleta de colores](Images/Paleta.png)
 
 #### Test de contraste
+[Herramienta utilizada](https://github.com/dequelabs/color-palette)
+
+![Test de contraste](Images/PaletaTest.jpg)
 
 ### Tipografía
 
@@ -68,6 +73,18 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 
 ## Guidelines
 
+Hemos utilizado las guías de diseño proporcionadas por Android, debido a que la mayoría de nuestros usuarios utilizarán esta plataforma.
+
+[Material Design](https://material.io/)
+
+Componentes:
+* [App bar: top](https://material.io/components/app-bars-top): muestra la información de la página actual y las principales acciones.
+* [Bottom navigation](https://material.io/components/bottom-navigation): permite al usuario moverse entre las direcciones de primer nivel de la app.
+* [Card](https://material.io/components/cards): se utiliza para mostrar contenido y acciones relacionadas con un tema concreto. Podemos añadir imágenes, texto y jerarquizar la información. Lo utilizaremos para mostrar el resumen de las actividades guardadas por el usuario.
+* [Lists](https://material.io/components/lists): se utilizan para agrupar elementos como texto, imágenes, cards, etc. Vamos a utilizarlo en la app para mostrar el listado de actividades destacadas. 
+* Formularios: para los formularios hemos utilizado algunos componentes proporcionados por la guía:
+    * [Checkboxes](https://material.io/components/date-pickers): las utilizamos cuando el usuario debe de seleccionar entre varias opciones. Si sólo hubiera una opción de tipo booleana, utilizaríamos [Switches](https://material.io/components/switches). En el formulario lo hemos utilizado para elegir el tipo de actividad a registrar.
+    * [Text fields](https://material.io/components/text-fields): permite al usuario introducir información y recibir feedback al instante de si es correcta o no.
 
 
 ## Mockup: LAYOUT HI-FI
