@@ -77,7 +77,7 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 
 [Material Design](https://material.io/)
 
-Componentes:
+### Componentes:
 * [App bar: top](https://material.io/components/app-bars-top): muestra la información de la página actual y las principales acciones.
 * [Bottom navigation](https://material.io/components/bottom-navigation): permite al usuario moverse entre las direcciones de primer nivel de la app.
 * [Card](https://material.io/components/cards): se utiliza para mostrar contenido y acciones relacionadas con un tema concreto. Podemos añadir imágenes, texto y jerarquizar la información. Lo utilizaremos para mostrar el resumen de las actividades guardadas por el usuario.
