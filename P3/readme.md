@@ -85,9 +85,26 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 * Formularios: para los formularios hemos utilizado algunos componentes proporcionados por la guía:
     * [Checkboxes](https://material.io/components/date-pickers): las utilizamos cuando el usuario debe de seleccionar entre varias opciones. Si sólo hubiera una opción de tipo booleana, utilizaríamos [Switches](https://material.io/components/switches). En el formulario lo hemos utilizado para elegir el tipo de actividad a registrar.
     * [Text fields](https://material.io/components/text-fields): permite al usuario introducir información y recibir feedback al instante de si es correcta o no.
+* [Chips](https://material.io/components/chips): permite a los usuarios filtrar contenido. Lo utilizaremos para implementar la búsqueda de actividades.
+* [Divider](https://material.io/components/dividers): lo utilizamos para separar la información en componentes según su importancia o temática.
 
 
 ## Mockup: LAYOUT HI-FI
+
+Puede ver [aquí](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847-6697/?fullscreen) la presentación del diseño.
+![Demo](Images/demo.gif)
+
+### Home
+![Pantalla Home](Images/Home.png)
+
+### Añadir una actividad
+![Pantalla](Images/Añadir.png)
+
+### Buscar una actividad
+![Pantalla](Images/Buscar.png)
+
+### Detalle de una actividad
+![Pantalla](Images/Actividad-Detalle.png)
 
 
 ## Documentación: Publicación del Case Study
