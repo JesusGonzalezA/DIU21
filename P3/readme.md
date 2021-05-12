@@ -96,10 +96,12 @@ Puede ver [aquí](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847
 
 ### Home
 Se trata de la página principal de la aplicación. Arriba se muestra un resumen de las actividades guardadas por el usuario y abajo el listado de las actividades destacadas (nota alta en las valoraciones) para que pueda añadirlas y verlas rápidamente.
+
 ![Pantalla Home](Images/Home.png)
 
 ### Añadir una experiencia
 Se trata de un formulario dinámico (cambia en función del tipo de experiencia seleccionada). La parte de arriba nos muestra un resumen de los pasos que el usuario debe cumplir para realizar un registro de forma correcta. 
+
 ![Pantalla](Images/Añadir.png)
 
 ### Buscar una experiencia
