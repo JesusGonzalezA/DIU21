@@ -110,6 +110,7 @@ Se trata de una página que permite al usuario buscar experiencias, filtrándola
 Se trata de la página que muestra la información completa relacionada con una experiencia. Arriba se muestra un botón para cerrar la página y volver atrás o guardarla si es del gusto del usuario. Todas las experiencias comparten información básica, como título, valoración, tipo de experiencia, descripción, contacto y localización. Esta información, que es la más relevante, aparece al principio. 
 Después aparece información adicional, como en este caso el menú del restaurante. 
 Por último, aparecen todos los comentarios de los usuarios ecoTravellers acerca de la experiencia.
+
 ![Pantalla](Images/Actividad-Detalle.png)
 
 
