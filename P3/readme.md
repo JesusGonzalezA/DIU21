@@ -90,6 +90,7 @@ Se trata de un formulario dinámico (cambia en función del tipo de experiencia 
 
 ### Buscar una experiencia
 Se trata de una página que permite al usuario buscar experiencias, filtrándolas por nombre, tipo y localización. Se muestra abajo un listado con todas las opciones que encajan con ese filtro. El usuario puede guardarlas o pinchar sobre ellas para ver más información (siguiente página).
+
 ![Pantalla](Images/Buscar.png)
 
 ### Detalle de una experiencia (restaurante, excursión, local...)
