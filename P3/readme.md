@@ -2,6 +2,9 @@
 
 ## Moodboard (diseño visual + logotipo) 
 
+[Puede verlo aquí](https://app.milanote.com/1LzAjP1dWddM2U?p=49ycxkzUwlo)
+![Moodboard](Images/Moodboard.png)
+
 ### Imágenes inspiradoras
 
 Hemos escogido estas imágenes porque nos transmiten tradición, calidez y nos transportan a "casa". Además, todas comparten algo, y es que gracias a respetar la naturaleza y lo local podemos vivir grandes experiencias. Nosotros con este proyecto queremos concienciar a la gente de la importancia de cuidar lo que se nos ha dado y que podamos luchar por seguir manteniéndolo y disfrutando de ello.
@@ -27,6 +30,8 @@ Lo que queremos transmitir nos ha condicionado mucho a la hora de escoger la pal
 
 #### Test de contraste
 [Herramienta utilizada](https://github.com/dequelabs/color-palette)
+
+Hemos realizado un test de contraste de la paleta utilizada, y como podemos comprobar es correcta exceptuando el caso en el que se utiliza el color amarillo de fondo y el segundo verde como color de la fuente. No utilizaremos esta combinación en nuestros diseños pero mantendremos la paleta escogida utilizando el resto de combinaciones permitidas. 
 
 ![Test de contraste](Images/PaletaTest.jpg)
 
@@ -63,11 +68,6 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 #### Sólo con el nombre
 #### 24x24
 
-### Resumen 
-
-[Puede verlo aquí](https://app.milanote.com/1LzAjP1dWddM2U?p=49ycxkzUwlo)
-![Moodboard](Images/Moodboard.png)
-
 ## Landing Page
 
 
@@ -95,15 +95,21 @@ Puede ver [aquí](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847
 ![Demo](Images/demo.gif)
 
 ### Home
+Se trata de la página principal de la aplicación. Arriba se muestra un resumen de las actividades guardadas por el usuario y abajo el listado de las actividades destacadas (nota alta en las valoraciones) para que pueda añadirlas y verlas rápidamente.
 ![Pantalla Home](Images/Home.png)
 
-### Añadir una actividad
+### Añadir una experiencia
+Se trata de un formulario dinámico (cambia en función del tipo de experiencia seleccionada). La parte de arriba nos muestra un resumen de los pasos que el usuario debe cumplir para realizar un registro de forma correcta. 
 ![Pantalla](Images/Añadir.png)
 
-### Buscar una actividad
+### Buscar una experiencia
+Se trata de una página que permite al usuario buscar experiencias, filtrándolas por nombre, tipo y localización. Se muestra abajo un listado con todas las opciones que encajan con ese filtro. El usuario puede guardarlas o pinchar sobre ellas para ver más información (siguiente página).
 ![Pantalla](Images/Buscar.png)
 
-### Detalle de una actividad
+### Detalle de una experiencia (restaurante, excursión, local...)
+Se trata de la página que muestra la información completa relacionada con una experiencia. Arriba se muestra un botón para cerrar la página y volver atrás o guardarla si es del gusto del usuario. Todas las experiencias comparten información básica, como título, valoración, tipo de experiencia, descripción, contacto y localización. Esta información, que es la más relevante, aparece al principio. 
+Después aparece información adicional, como en este caso el menú del restaurante. 
+Por último, aparecen todos los comentarios de los usuarios ecoTravellers acerca de la experiencia.
 ![Pantalla](Images/Actividad-Detalle.png)
 
 
