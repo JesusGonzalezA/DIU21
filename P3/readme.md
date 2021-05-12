@@ -7,7 +7,7 @@
 
 ### Imágenes inspiradoras
 
-Hemos escogido estas imágenes porque nos transmiten tradición, calidez y nos transportan a "casa". Además, todas comparten algo, y es que gracias a respetar la naturaleza y lo local podemos vivir grandes experiencias. Nosotros con este proyecto queremos concienciar a la gente de la importancia de cuidar lo que se nos ha dado y que podamos luchar por seguir manteniéndolo y disfrutando de ello.
+Hemos escogido estas imágenes porque nos transmiten tradición, calidez y nos transportan a "casa". Además, todas comparten algo, y es que gracias a respetar la naturaleza y lo local podemos vivir grandes expMoeriencias. Nosotros con este proyecto queremos concienciar a la gente de la importancia de cuidar lo que se nos ha dado y que podamos luchar por seguir manteniéndolo y disfrutando de ello.
 
 ![Patatas a lo pobre](Images/Comida.png)
 ![Excursión](Images/Excursion.png)
@@ -62,6 +62,9 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 
 ### Iconos
 
+![Iconos1](Images/Iconos1.png)
+![Iconos2](Images/Iconos2.png)
+
 ### Logo
 #### B/N
 #### Sin símbolos
@@ -69,25 +72,6 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 #### 24x24
 
 ## Landing Page
-
-
-## Guidelines
-
-Hemos utilizado las guías de diseño proporcionadas por Android, debido a que la mayoría de nuestros usuarios utilizarán esta plataforma.
-
-[Material Design](https://material.io/)
-
-### Componentes:
-* [App bar: top](https://material.io/components/app-bars-top): muestra la información de la página actual y las principales acciones.
-* [Bottom navigation](https://material.io/components/bottom-navigation): permite al usuario moverse entre las direcciones de primer nivel de la app.
-* [Card](https://material.io/components/cards): se utiliza para mostrar contenido y acciones relacionadas con un tema concreto. Podemos añadir imágenes, texto y jerarquizar la información. Lo utilizaremos para mostrar el resumen de las actividades guardadas por el usuario.
-* [Lists](https://material.io/components/lists): se utilizan para agrupar elementos como texto, imágenes, cards, etc. Vamos a utilizarlo en la app para mostrar el listado de actividades destacadas. 
-* Formularios: para los formularios hemos utilizado algunos componentes proporcionados por la guía:
-    * [Checkboxes](https://material.io/components/date-pickers): las utilizamos cuando el usuario debe de seleccionar entre varias opciones. Si sólo hubiera una opción de tipo booleana, utilizaríamos [Switches](https://material.io/components/switches). En el formulario lo hemos utilizado para elegir el tipo de actividad a registrar.
-    * [Text fields](https://material.io/components/text-fields): permite al usuario introducir información y recibir feedback al instante de si es correcta o no.
-* [Chips](https://material.io/components/chips): permite a los usuarios filtrar contenido. Lo utilizaremos para implementar la búsqueda de actividades.
-* [Divider](https://material.io/components/dividers): lo utilizamos para separar la información en componentes según su importancia o temática.
-
 
 ## Mockup: LAYOUT HI-FI
 
@@ -115,6 +99,44 @@ Por último, aparecen todos los comentarios de los usuarios ecoTravellers acerca
 
 ![Pantalla](Images/Actividad-Detalle.png)
 
+## Guidelines
+
+Hemos utilizado las guías de diseño proporcionadas por Android, debido a que la mayoría de nuestros usuarios utilizarán esta plataforma.
+
+[Guía de patrones de diseño](http://ui-patterns.com/)
+
+[Guía de estilos y componentes: Material Design](https://material.io/)
+
+### Patrones:
+* [Auto-sharing](http://ui-patterns.com/patterns/auto-sharing): lo utilizamos para que el usuario pueda compartir sus experiencias con sus redes sociales.
+* [Chat](http://ui-patterns.com/patterns/direct-messaging): lo utilizamos para que el usuario pueda interactuar con los creadores de las experiencias individualmente. Ej: un ecotraveller quiere contactar con un restaurante para reservar.
+* [Testimonials](http://ui-patterns.com/patterns/testimonials):  lo utilizamos en la landing page para añadir confianza a nuestrro producto. 
+* [Input Feedback](http://ui-patterns.com/patterns/InputFeedback): lo utilizamos en los formularios de la aplicación, para que el usuario reciba rápidamente un feedback sobre el contenido que introduce y facilitemos el uso de la aplicación. Además, como versión futura, se podría introducir un sistema de recomendación para ayudar a crear mejores experiencias.
+* [Settings](http://ui-patterns.com/patterns/settings): lo utilizamos en la aplicación para que el usuario pueda configurarla a su gusto. Permitiremos cambiar (la principal finalidad es cuidar la accesibilidad de la app):
+    - Color principal
+    - Tamaño de letra. [(Patrón Adaptable View)](http://ui-patterns.com/patterns/AdaptableView)
+    - Activar/Desactivar notificaciones
+* [Preview](http://ui-patterns.com/patterns/LivePreview): lo utilizamos en el formulario para incluir una experiencia en nuestra aplicación (última fase). No es un live preview, pero si ayuda al usuario a ver cómo quedaría su experiencia antes de publicarla. Podríamos en fases más avanzadas de desarrollo añadir recomendaciones.
+* [Undo](http://ui-patterns.com/patterns/undo): lo utilizamos junto con el patrón anterior para que el usuario pueda cancelar la acción y añadir cambios en el formulario para crear una experiencia.
+* [Rate Content](http://ui-patterns.com/patterns/RateContent): lo utilizamos en la app para que los usuarios valoren las experiencias y así conseguir que todos los locales, excursiones, restaurantes, etc cumplen con los valores que queremos promover con nuestra solución.
+* [Notifications](http://ui-patterns.com/patterns/notifications): lo utilizamos en la app para informar a los usuarios de actualizaciones importantes o mensajes privados (chat).
+* [Cards](http://ui-patterns.com/patterns/cards): las utilizamos en la app para mostrar las experiencias y los resultados de las búsquedas de los usuarios. 
+* [Continuous Scrolling](http://ui-patterns.com/patterns/ContinuousScrolling): lo utilizamos tanto en la app como en la landing page. 
+    - En la landing page lo utilizamos porque añadir una subpágina podría hacernos perder usuarios, debido a que deberían de navegar para poder encontrar contenido. Además queremos tener siempre a mano el botón de descargar, que es nuestro CTA.
+    - En la app lo utilizamos en el detalle de una experiencia para mostrar arriba el contenido más relevante y abajo el secundario, pero no tendría sentido separarlo en pantallas distintas. Además, lo utilizamos en las listas como en los resultados de la búsqueda. Esto nos permitirá implementar paginación en el desarrollo sin que el usuario tenga que navegar.
+* [Tagging](http://ui-patterns.com/patterns/Tag): lo utilizamos en la app para que el usuario pueda filtrar las búsquedas de experiencias.
+* [Favourites](http://ui-patterns.com/patterns/favorites): lo utilizamos en la app para que el usuario pueda guardar experiencias para verlas luego. Aparecen las experiencias guardadas en la pantalla home.
+
+### Componentes:
+* [App bar: top](https://material.io/components/app-bars-top): muestra la información de la página actual y las principales acciones.
+* [Bottom navigation](https://material.io/components/bottom-navigation): permite al usuario moverse entre las direcciones de primer nivel de la app.
+* [Card](https://material.io/components/cards): se utiliza para mostrar contenido y acciones relacionadas con un tema concreto. Podemos añadir imágenes, texto y jerarquizar la información. Lo utilizaremos para mostrar el resumen de las actividades guardadas por el usuario.
+* [Lists](https://material.io/components/lists): se utilizan para agrupar elementos como texto, imágenes, cards, etc. Vamos a utilizarlo en la app para mostrar el listado de actividades destacadas. 
+* Formularios: para los formularios hemos utilizado algunos componentes proporcionados por la guía:
+    * [Checkboxes](https://material.io/components/date-pickers): las utilizamos cuando el usuario debe de seleccionar entre varias opciones. Si sólo hubiera una opción de tipo booleana, utilizaríamos [Switches](https://material.io/components/switches). En el formulario lo hemos utilizado para elegir el tipo de actividad a registrar.
+    * [Text fields](https://material.io/components/text-fields): permite al usuario introducir información y recibir feedback al instante de si es correcta o no.
+* [Chips](https://material.io/components/chips): permite a los usuarios filtrar contenido. Lo utilizaremos para implementar la búsqueda de actividades.
+* [Divider](https://material.io/components/dividers): lo utilizamos para separar la información en componentes según su importancia o temática.
 
 ## Documentación: Publicación del Case Study
 
