@@ -68,19 +68,21 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 ### Logo
 El logo tiene el color principal de nuestra app que representa la naturaleza. Queremos que el concepto viaje y cuidar el planeta estén presentes en todos los iconos, es por ello que hemos sustituído la letra 'o' de ecotravel por una bola del mundo y hemos añadido una maleta simbolizando el mensaje de "pensar globalmente, actuar localmente".  
 
-![Logo](Images/Logo.png)
+
+<img src="./Images/Logo.png" width="150" />
 
 #### Sin símbolos
-![Logo sin símbolos](Images/LogoSinLetras.png)
+<img src="./Images/LogoSinLetras.png" width="150" />
 
 #### B/N
-![Logo B/N](Images/LogoBN.png)
+<img src="./Images/LogoBN.png" width="150" />
 
 #### Sólo con el nombre
-![Logo sólo con el nombre](Images/LogoConNombre.png)
+<img src="./Images/LogoConNombre.png" width="150" />
 
 #### 24x24
 ![Ico](Images/Ico.ico)
+
 
 ## Landing Page
 
