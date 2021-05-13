@@ -159,6 +159,8 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 
 ## Documentación: Publicación del Case Study
 
+Para ver el caso de estudio publicado pinche [aquí](https://youtu.be/_eJTgeZffRU)
+
 ### Herramientas utilizadas
 * [Adobe XD](https://www.adobe.com/products/xd.html): lo hemos utilizado para elaborar los diseños de la landing page y la app. En general nos ha gustado mucho, pero creemos que puede ser más complicada de usar con respecto a otras aplicaciones, como [Figma](https://www.figma.com/).
 * [Milanote](https://milanote.com/): lo hemos utilizado para elaborar el Moodboard y nos ha parecido muy útil y fácil de usar.

@@ -220,9 +220,8 @@ Puede ver [aquí](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+Para ver el caso de estudio publicado pinche [aquí](https://youtu.be/_eJTgeZffRU)
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
