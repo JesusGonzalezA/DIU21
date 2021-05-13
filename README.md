@@ -25,45 +25,78 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
+En esta etapa hemos realizado un análisis de aplicaciones relacionadas con la planificación de viajes. Hemos analizado en profundidad [Passporter](https://passporterapp.com/) y cómo unas personas ficticias la utilizarían.
+[Más información](https://github.com/JesusGonzalezA/DIU21/tree/master/P1)
+
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
 Hemos analizado las aplicaciones **[Passporter](https://passporterapp.com/)**, **[Tripit](https://www.tripit.com/web)**, **[Sygic Travel](https://www.sygic.com/es/travel)**, **[CheckMyTrip](https://www.checkmytrip.com/cmtweb/#/home)**. De entre ellas hemos escogido **[Passporter](https://passporterapp.com/)**, puesto que creemos que puede ser una buena solución para impulsar el turismo local.
 
-[Más información](https://github.com/JesusGonzalezA/DIU21/tree/master/P1)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Seleccionamos a dos personas que quieren viajar y a otra que quiere crear viajes. Esta última, presenta dificultades con la tecnología. 
+Hemos seleccionado tres personas para poder abarcar todos los tipos de usuarios que utilizarían la aplicación [Passporter](https://passporterapp.com/).
 
-![Persona 1](P1/Images/Persona1.jpg)
-![Persona 2](P1/Images/Persona2.jpg)
-![Persona 3](P1/Images/Persona3.jpg)
+
+Asier es un joven no muy interesado en viajar y su sueño es abrir un restaurante en su ciudad de origen, Bilbao. 
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P1#asier-arrieta)
+
+![Persona 1](img/PersonaJulio.png)
+
+César es un profesor de historia al que el COVID le ha afectado mucho, debido a que no sabe cómo actualizar su metodología docente. Passporter podría ser una opción para crear itinerario para mostrar a sus alumnos.
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P1#c%C3%A9sar-honorio)
+
+![Persona 2](img/PersonaJesus.jpg)
+
+María es una joven deportista de fuerte carácter a la que le gusta entrenar en las ciudades a las que viaja. Su objetivo es llegar a convertirse en deportista de élite.
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P1#mar%C3%ADa-fern%C3%A1ndez)
+
+![Persona 3](img/PersonaSoriano.jpeg)
+
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-Seleccionamos estas experiencias porque son los casos de uso más habituales en esta aplicación y porque demuestran si la app cumple con su cometido.
+Gracias al User Journey Map podemos valorar cómo se siente el usuario utilizando la aplicación en casos de uso habituales.
 
-![Journey 1](P1/Images/Journey1.jpg)
-![Journey 2](P1/Images/Journey2.jpg)
-![Journey 3](P1/Images/Journey3.jpg)
+Asier quiere adquirir un itinerario para regalárselo a su novia.
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/blob/master/P1/Images/Journey1.jpg)
+
+![Persona 1](img/PersonaJulio.png)
+
+César quiere crear un itinerario para mostrárselo a sus alumnos.
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/blob/master/P1/Images/Journey2.jpg)
+
+![Persona 2](img/PersonaJesus.jpg)
+
+María quiere obtener un itinerario para ir a entrenar.
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/blob/master/P1/Images/Journey3.jpg)
+
+![Persona 3](img/PersonaSoriano.jpeg)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-- [Enlace al documento](https://github.com/JesusGonzalezA/DIU21/tree/master/P1/Usability-review.xlsx)
 - Valoración final: 75
-- Comentario sobre la valoración: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios más novatos.
+- Comentario sobre la valoración: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios más novatos. Los usuarios deben de ser capaces de utilizar la aplicación con relativa facilidad para la mayoría de tareas fundamentales. Sin embargo, tareas como la búsqueda, filtros y previsualizar actividades resultan mal desarrolladas.
+
+Puede ver más información [aquí](https://github.com/JesusGonzalezA/DIU21/tree/master/P1/Usability-review.xlsx).
 
 
 ## Paso 2. UX Design  
 
-
+En esta etapa hemos recogido los puntos fuertes y débiles de [Passporter](https://passporterapp.com/). Además, hemos creado una nueva solución para fomentar el turismo local, EcoTravel.
 [Más información](https://github.com/JesusGonzalezA/DIU21/tree/master/P2)
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) 2.a Malla receptora de información
 ----
 
 El turismo como lo conocemos resulta insostenible y abandona comercios tradicionales y zonas rurales. Ofrecemos una solución que promueva el turismo sostenible, dando visibilidad a comercios locales.
@@ -86,7 +119,7 @@ Nuestro proyecto (EcoTravel) consiste en una aplicación que busca ofrecer una a
 **Task flow:** Tras conocer los objetivos de los usuarios, se definen aquellas tareas que deben de realizar para cumplir los mismos mediante esta técnica de diseño. Permite así mostrar, de forma visual, las tareas que los usuarios quieren cumplir para conseguir sus objetivos y las relaciones que hay entre las mismas (hacer una antes de otra, para hacer x necesitas estar loggeado y haber registrado un comercio, etc). Se suelen utilizar diagramas para implementarlo.
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.c Arquitectura de información: Sitemap + Labelling 
 ----
 
 | Label | Siginificado |
@@ -131,6 +164,7 @@ Por último, con este Wireframe tratamos de presentar la pantalla con la que se 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
+En esta etapa hemos diseñado la solución analizada anteriormente. Así, hemos creado un logo, una paleta de colores, una landing page para promocionar a la marca EcoTravel y hemos realizado un diseño de alta fidelidad de la aplicación móvil. [Más información](https://github.com/JesusGonzalezA/DIU21/tree/master/P3)
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
@@ -172,16 +206,12 @@ Abajo tenemos lo que podemos ofrecer a los usuarios y algunos comentarios de los
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-
-Hemos utilizado las guías de diseño proporcionadas por Android, debido a que la mayoría de nuestros usuarios utilizarán esta plataforma.
-
 [Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P3#guidelines)
 
-[Guía de patrones de diseño](http://ui-patterns.com/)
+Hemos utilizado las guías de diseño proporcionadas por [Android](https://material.io/), debido a que la mayoría de nuestros usuarios utilizarán esta plataforma.
 
-[Guía de estilos y componentes: Material Design](https://material.io/)
 
-### Patrones:
+### Patrones utilizados:
 * [Auto-sharing](http://ui-patterns.com/patterns/auto-sharing)
 * [Chat](http://ui-patterns.com/patterns/direct-messaging)
 * [Testimonials](http://ui-patterns.com/patterns/testimonials)
@@ -196,7 +226,7 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 * [Tagging](http://ui-patterns.com/patterns/Tag)
 * [Favourites](http://ui-patterns.com/patterns/favorites)
 
-### Componentes:
+### Componentes utilizados:
 * [App bar: top](https://material.io/components/app-bars-top)
 * [Bottom navigation](https://material.io/components/bottom-navigation)
 * [Card](https://material.io/components/cards)
@@ -213,6 +243,18 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 
 [Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P3#mockup-layout-hi-fi)
 
+Se han elaborado las pantallas principales que permiten ver cómo se interactuaría con la app:
+- Home
+- Buscar
+- Detalle de una experiencia
+- Crear una experiencia
+
+Con ellas podemos mostrar los casos de uso:
+- Ver las actividades guardadas por el usuario
+- Añadir una experiencia nueva
+- Buscar una experiencia y filtrarla
+- Ver la información de una experiencia
+
 Puede ver [aquí](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847-6697/?fullscreen) la presentación del diseño.
 
 ![Demo](P3/Images/demo.gif)
@@ -220,7 +262,8 @@ Puede ver [aquí](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Para ver el caso de estudio publicado pinche [aquí](https://youtu.be/_eJTgeZffRU)
+Hemos realizado un vídeo en el que explicamos nuestro caso de estudio: EcoTravel.
+Para verlo pulse [aquí](https://youtu.be/_eJTgeZffRU)
 
 
 
