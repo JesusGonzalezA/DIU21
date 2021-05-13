@@ -111,7 +111,7 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 ### Patrones:
 * [Auto-sharing](http://ui-patterns.com/patterns/auto-sharing): lo utilizamos para que el usuario pueda compartir sus experiencias con sus redes sociales.
 * [Chat](http://ui-patterns.com/patterns/direct-messaging): lo utilizamos para que el usuario pueda interactuar con los creadores de las experiencias individualmente. Ej: un ecotraveller quiere contactar con un restaurante para reservar.
-* [Testimonials](http://ui-patterns.com/patterns/testimonials):  lo utilizamos en la landing page para añadir confianza a nuestrro producto. 
+* [Testimonials](http://ui-patterns.com/patterns/testimonials):  lo utilizamos en la landing page para añadir confianza a nuestro producto. 
 * [Input Feedback](http://ui-patterns.com/patterns/InputFeedback): lo utilizamos en los formularios de la aplicación, para que el usuario reciba rápidamente un feedback sobre el contenido que introduce y facilitemos el uso de la aplicación. Además, como versión futura, se podría introducir un sistema de recomendación para ayudar a crear mejores experiencias.
 * [Settings](http://ui-patterns.com/patterns/settings): lo utilizamos en la aplicación para que el usuario pueda configurarla a su gusto. Permitiremos cambiar (la principal finalidad es cuidar la accesibilidad de la app):
     - Color principal
