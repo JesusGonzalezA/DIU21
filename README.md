@@ -5,14 +5,14 @@ Grupo: DIU1_ElReencuentro.  Curso: 2020/21
 
 
 Proyecto: 
->>> EcoTravel
+EcoTravel
 
 Descripción: 
 
->>> EcoTravel consiste en una aplicación que busca ofrecer una alternativa a aquellas personas que desean viajar respetando la naturaleza y descubriendo lugares y comercios rurales y que respeten la tradición, productos y lugares. Pretende crear una comunidad de usuarios y comercios/servicios que sigan estos valores y principios y conectarlos.
+EcoTravel consiste en una aplicación que busca ofrecer una alternativa a aquellas personas que desean viajar respetando la naturaleza y descubriendo lugares y comercios rurales y que respeten la tradición, productos y lugares. Pretende crear una comunidad de usuarios y comercios/servicios que sigan estos valores y principios y conectarlos.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logo](P3/Images/Logo.png)
 
 Miembros
  * :bust_in_silhouette: Jesús González Álvarez     :octocat: [JesusGonzalezA](https://github.com/JesusGonzalezA)     
@@ -28,14 +28,14 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Hemos analizado las aplicaciones **[Passporter](https://passporterapp.com/)**, **[Tripit](https://www.tripit.com/web)**, **[Sygic Travel](https://www.sygic.com/es/travel)**, **[CheckMyTrip](https://www.checkmytrip.com/cmtweb/#/home)**. De entre ellas hemos escogido **[Passporter](https://passporterapp.com/)**, puesto que creemos que puede ser una buena solución para impulsar el turismo local.
+Hemos analizado las aplicaciones **[Passporter](https://passporterapp.com/)**, **[Tripit](https://www.tripit.com/web)**, **[Sygic Travel](https://www.sygic.com/es/travel)**, **[CheckMyTrip](https://www.checkmytrip.com/cmtweb/#/home)**. De entre ellas hemos escogido **[Passporter](https://passporterapp.com/)**, puesto que creemos que puede ser una buena solución para impulsar el turismo local.
 
 [Más información](https://github.com/JesusGonzalezA/DIU21/tree/master/P1)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
->>> Seleccionamos a dos personas que quieren viajar y a otra que quiere crear viajes. Esta última, presenta dificultades con la tecnología. 
+Seleccionamos a dos personas que quieren viajar y a otra que quiere crear viajes. Esta última, presenta dificultades con la tecnología. 
 
 ![Persona 1](P1/Images/Persona1.jpg)
 ![Persona 2](P1/Images/Persona2.jpg)
@@ -44,7 +44,7 @@ Miembros
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
->>> Seleccionamos estas experiencias porque son los casos de uso más habituales en esta aplicación y porque demuestran si la app cumple con su cometido.
+Seleccionamos estas experiencias porque son los casos de uso más habituales en esta aplicación y porque demuestran si la app cumple con su cometido.
 
 ![Journey 1](P1/Images/Journey1.jpg)
 ![Journey 2](P1/Images/Journey2.jpg)
@@ -52,10 +52,10 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad:
->>> - [Enlace al documento](https://github.com/JesusGonzalezA/DIU21/tree/master/P1/Usability-review.xlsx)
->>> - Valoración final: 75
->>> - Comentario sobre la valoración: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios más novatos.
+
+- [Enlace al documento](https://github.com/JesusGonzalezA/DIU21/tree/master/P1/Usability-review.xlsx)
+- Valoración final: 75
+- Comentario sobre la valoración: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios más novatos.
 
 
 ## Paso 2. UX Design  
@@ -66,9 +66,9 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
->>> El turismo como lo conocemos resulta insostenible y abandona comercios tradicionales y zonas rurales. Ofrecemos una solución que promueva el turismo sostenible, dando visibilidad a comercios locales.
+El turismo como lo conocemos resulta insostenible y abandona comercios tradicionales y zonas rurales. Ofrecemos una solución que promueva el turismo sostenible, dando visibilidad a comercios locales.
 
->>> ![Malla receptora de información](P2/Images/MallaReceptora.png)
+![Malla receptora de información](P2/Images/MallaReceptora.png)
     
 
 
@@ -77,13 +77,13 @@ Miembros
 ----
 Nuestro proyecto (EcoTravel) consiste en una aplicación que busca ofrecer una alternativa a aquellas personas que desean viajar respetando la naturaleza y descubriendo lugares y comercios rurales y que respeten la tradición, productos y lugares. Pretende crear una comunidad de usuarios y comercios/servicios que sigan estos valores y principios y conectarlos.
 
->>> ![Propuesta de valor](P2/Images/PropuestaValor.png)
+![Propuesta de valor](P2/Images/PropuestaValor.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> **User matrix:** se trata de una técnica de diseño que permite identificar las tareas más relevantes para los usuarios, así como los grupos de usuarios más críticos para el correcto funcionamiento de la solución propuesta. Se deben de enumerar en una tabla los grupos de usurios principales (columnas) y las tareas que el sistema ofrecerá (filas). Se indica la frecuencia (alta, media, baja) de uso de una tarea por un grupo de usuario en cada celda de la tabla y se indicará con un color especial las tareas/perfiles de usuarios más importantes. \
->>> **Task flow:** Tras conocer los objetivos de los usuarios, se definen aquellas tareas que deben de realizar para cumplir los mismos mediante esta técnica de diseño. Permite así mostrar, de forma visual, las tareas que los usuarios quieren cumplir para conseguir sus objetivos y las relaciones que hay entre las mismas (hacer una antes de otra, para hacer x necesitas estar loggeado y haber registrado un comercio, etc). Se suelen utilizar diagramas para implementarlo.
+**User matrix:** se trata de una técnica de diseño que permite identificar las tareas más relevantes para los usuarios, así como los grupos de usuarios más críticos para el correcto funcionamiento de la solución propuesta. Se deben de enumerar en una tabla los grupos de usurios principales (columnas) y las tareas que el sistema ofrecerá (filas). Se indica la frecuencia (alta, media, baja) de uso de una tarea por un grupo de usuario en cada celda de la tabla y se indicará con un color especial las tareas/perfiles de usuarios más importantes. \
+**Task flow:** Tras conocer los objetivos de los usuarios, se definen aquellas tareas que deben de realizar para cumplir los mismos mediante esta técnica de diseño. Permite así mostrar, de forma visual, las tareas que los usuarios quieren cumplir para conseguir sus objetivos y las relaciones que hay entre las mismas (hacer una antes de otra, para hacer x necesitas estar loggeado y haber registrado un comercio, etc). Se suelen utilizar diagramas para implementarlo.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -115,22 +115,19 @@ Nuestro proyecto (EcoTravel) consiste en una aplicación que busca ofrecer una a
 
 En el siguiente Wireframe tratamos de representar en forma de boceto la pantalla de inicio que se verá nada más acceder a la app.
 
-![Wireframe Ecotravel](P2/Images/EcoTravel_HOME.jpg)
+<img src="./P2/Images/EcoTravel_HOME.jpg" width="150" />
 
 A continuación se muestra el Wireframe referente a la pantalla que verá el usuario cuando quiera añadir una actividad, establecimiento, etc.
 
-![Wireframe Registrar una nueva actividad](P2/Images/addLOFI.jpg)
+<img src="./P2/Images/addLOFI.jpg" width="150" />
 
 El siguiente Wireframe tratará de representar la pantalla que observa el usuario cuando selecciona una actividad para conocer más detalle sobre la misma.
 
-![Wireframe Resultado de búsqueda](P2/Images/mirarLOFI.jpg)
+<img src="./P2/Images/mirarLOFI.jpg" width="150" />
 
 Por último, con este Wireframe tratamos de presentar la pantalla con la que se encuentra un usuario cuando va a llevar a cabo una búsqueda de una actividad concreta.
 
-![Wireframe Buscar](P2/Images/searchLOFI.jpg)
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+<img src="./P2/Images/searchLOFI.jpg" width="150" />
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -138,36 +135,87 @@ Por último, con este Wireframe tratamos de presentar la pantalla con la que se 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
-
 Para el moodboard hemos elegido unas fotos que nos inspiraban y nos recordaban a los valores que queremos representar. Con esto hemos elegido una paleta de colores que nos permita transmitir las sensaciones que queremos que encuentren los usuarios con nosotros (ecología, calidez, transparencia, simplicidad, etc). Hemos seleccionado dos fuentes que sean muy legibles y sencillas y seleccionado unos iconos para poder crear nuestros diseños. 
 Además, hemos añadido unos comentarios que muestran cómo queremos que los usuarios nos identifiquen.
 
 [Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P3)
 ![Moodboard](P3/Images/Moodboard.png)
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
+
+### Logotipo
+
+El logo tiene el color principal de nuestra app que representa la naturaleza. Queremos que el concepto viaje y cuidar el planeta estén presentes en todos los iconos, es por ello que hemos sustituído la letra 'o' de ecotravel por una bola del mundo y hemos añadido una maleta simbolizando el mensaje de "pensar globalmente, actuar localmente".  
+
+
+<img src="./P3/Images/Logo.png" width="150" />
+
+#### Sin símbolos
+<img src="./P3/Images/LogoSinLetras.png" width="150" />
+
+#### B/N
+<img src="./P3/Images/LogoBN.png" width="150" />
+
+#### Sólo con el nombre
+<img src="./P3/Images/LogoConNombre.png" width="150" />
+
+#### 24x24
+![Ico](P3/Images/Ico.ico)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+Puede ver [aquí](https://xd.adobe.com/view/2db3207e-db00-4f65-9419-5f6cd088a22b-78e0/?fullscreen) la landing page.
+Hemos querido mostrar en portada una imagen en la que la naturaleza, la paz y lo rural destaquen y que encaje con nuestra paleta de colores. El Call To Action aparece junto con el título del proyecto y dos frases que ayudan al usuario a entender lo que hacemos y cómo lo hacemos. 
+Abajo tenemos lo que podemos ofrecer a los usuarios y algunos comentarios de los mismos. Utilizamos un footer para que se pueda llegar a nuestras redes sociales fácilmente.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+Hemos utilizado las guías de diseño proporcionadas por Android, debido a que la mayoría de nuestros usuarios utilizarán esta plataforma.
+
+[Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P3#guidelines)
+
+[Guía de patrones de diseño](http://ui-patterns.com/)
+
+[Guía de estilos y componentes: Material Design](https://material.io/)
+
+### Patrones:
+* [Auto-sharing](http://ui-patterns.com/patterns/auto-sharing)
+* [Chat](http://ui-patterns.com/patterns/direct-messaging)
+* [Testimonials](http://ui-patterns.com/patterns/testimonials)
+* [Input Feedback](http://ui-patterns.com/patterns/InputFeedback)
+* [Settings](http://ui-patterns.com/patterns/settings)
+* [Preview](http://ui-patterns.com/patterns/LivePreview)
+* [Undo](http://ui-patterns.com/patterns/undo)
+* [Rate Content](http://ui-patterns.com/patterns/RateContent)
+* [Notifications](http://ui-patterns.com/patterns/notifications)
+* [Cards](http://ui-patterns.com/patterns/cards)
+* [Continuous Scrolling](http://ui-patterns.com/patterns/ContinuousScrolling)
+* [Tagging](http://ui-patterns.com/patterns/Tag)
+* [Favourites](http://ui-patterns.com/patterns/favorites)
+
+### Componentes:
+* [App bar: top](https://material.io/components/app-bars-top)
+* [Bottom navigation](https://material.io/components/bottom-navigation)
+* [Card](https://material.io/components/cards)
+* [Lists](https://material.io/components/lists) 
+* Formularios:
+    * [Checkboxes](https://material.io/components/date-pickers)
+    * [Switches](https://material.io/components/switches)
+    * [Text fields](https://material.io/components/text-fields)
+* [Chips](https://material.io/components/chips)
+* [Divider](https://material.io/components/dividers)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+[Ver más](https://github.com/JesusGonzalezA/DIU21/tree/master/P3#mockup-layout-hi-fi)
 
+Puede ver [aquí](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847-6697/?fullscreen) la presentación del diseño.
+
+![Demo](P3/Images/demo.gif)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----

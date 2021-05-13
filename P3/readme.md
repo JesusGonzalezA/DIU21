@@ -66,12 +66,28 @@ Lo que nos gustaría que los usuarios dijeran de nuestro proyecto:
 ![Iconos2](Images/Iconos2.png)
 
 ### Logo
-#### B/N
+El logo tiene el color principal de nuestra app que representa la naturaleza. Queremos que el concepto viaje y cuidar el planeta estén presentes en todos los iconos, es por ello que hemos sustituído la letra 'o' de ecotravel por una bola del mundo y hemos añadido una maleta simbolizando el mensaje de "pensar globalmente, actuar localmente".  
+
+![Logo](Images/Logo.png)
+
 #### Sin símbolos
+![Logo sin símbolos](Images/LogoSinLetras.png)
+
+#### B/N
+![Logo B/N](Images/LogoBN.png)
+
 #### Sólo con el nombre
+![Logo sólo con el nombre](Images/LogoConNombre.png)
+
 #### 24x24
+![Ico](Images/Ico.ico)
 
 ## Landing Page
+
+Puede ver [aquí](https://xd.adobe.com/view/2db3207e-db00-4f65-9419-5f6cd088a22b-78e0/?fullscreen) la landing page.
+Hemos querido mostrar en portada una imagen en la que la naturaleza, la paz y lo rural destaquen y que encaje con nuestra paleta de colores. El Call To Action aparece junto con el título del proyecto y dos frases que ayudan al usuario a entender lo que hacemos y cómo lo hacemos. 
+Abajo tenemos lo que podemos ofrecer a los usuarios y algunos comentarios de los mismos. Utilizamos un footer para que se pueda llegar a nuestras redes sociales fácilmente.
+![Landing page](Images/LandingPage.png)
 
 ## Mockup: LAYOUT HI-FI
 
@@ -111,7 +127,7 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 ### Patrones:
 * [Auto-sharing](http://ui-patterns.com/patterns/auto-sharing): lo utilizamos para que el usuario pueda compartir sus experiencias con sus redes sociales.
 * [Chat](http://ui-patterns.com/patterns/direct-messaging): lo utilizamos para que el usuario pueda interactuar con los creadores de las experiencias individualmente. Ej: un ecotraveller quiere contactar con un restaurante para reservar.
-* [Testimonials](http://ui-patterns.com/patterns/testimonials):  lo utilizamos en la landing page para añadir confianza a nuestrro producto. 
+* [Testimonials](http://ui-patterns.com/patterns/testimonials):  lo utilizamos en la landing page para añadir confianza a nuestro producto. 
 * [Input Feedback](http://ui-patterns.com/patterns/InputFeedback): lo utilizamos en los formularios de la aplicación, para que el usuario reciba rápidamente un feedback sobre el contenido que introduce y facilitemos el uso de la aplicación. Además, como versión futura, se podría introducir un sistema de recomendación para ayudar a crear mejores experiencias.
 * [Settings](http://ui-patterns.com/patterns/settings): lo utilizamos en la aplicación para que el usuario pueda configurarla a su gusto. Permitiremos cambiar (la principal finalidad es cuidar la accesibilidad de la app):
     - Color principal
@@ -141,6 +157,27 @@ Hemos utilizado las guías de diseño proporcionadas por Android, debido a que l
 
 ## Documentación: Publicación del Case Study
 
+### Herramientas utilizadas
+* [Adobe XD](https://www.adobe.com/products/xd.html): lo hemos utilizado para elaborar los diseños de la landing page y la app. En general nos ha gustado mucho, pero creemos que puede ser más complicada de usar con respecto a otras aplicaciones, como [Figma](https://www.figma.com/).
+* [Milanote](https://milanote.com/): lo hemos utilizado para elaborar el Moodboard y nos ha parecido muy útil y fácil de usar.
+* [Color-palette](https://github.com/dequelabs/color-palette): nos ha ayudado mucho a comprobar que nuestra paleta era correcta y nos ha sugerido cambios, al comprobar que algunos colores no eran compatibles.
+* [Crello](https://crello.com/pro/?gclid=CjwKCAjwnPOEBhA0EiwA609ReeT7VGrsrhXmLrMqHDCbEZxiQZuW6AxG3ZkIXqOlWhaiuRJW_ArtVxoCaKQQAvD_BwE): lo hemos utilizado para realizar el logo y nos ha parecido muy intuitivo.
+* [Material Design](https://material.io/): nos ha servido para documentarnos sobre los componentes y cómo utilizarlos en aplicaciones móviles.
+* [UI-patterns](http://ui-patterns.com/): nos ha servidor para ver un listado de patrones de diseño y comprobar sus casos de uso y popularidad.
+* [Google fonts](https://fonts.google.com/): resulta muy útil buscar fuentes en esta página web porque puedes filtrar por tipos y ver rápidamente cómo quedaría en los diseños.
+* [Fontawesome](https://fontawesome.com/): contiene un listado muy amplio de iconos.
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+### Valoraciones
+Con el moodboard hemos hecho un brainstorming que nos ha servido de guía para poder desarrollar nuestras ideas. 
+
+Primero escogimos algunas imágenes que nos servían de inspiración, la mayoría sitios y comidas de nuestro entorno rural más cercano.
+
+Nuestra mayor dificultad surgió al elegir la paleta de colores: queríamos que el color verde estuviera muy presente en la app, para transmitir armonía y cuidado a la naturaleza. Sin embargo, tras hacer los test de contraste de la paleta, algunas combinaciones no eran correctas, por lo que tuvimos que redefinirlo, manteniendo el diseño visual que queríamos desarrollar. Para esto, nos ayudó mucho utilizar la herramienta [color-palette](https://github.com/dequelabs/color-palette).
+
+Posterior a esto decidimos la tipografía. Para ello, indagamos un poco en la psicología de las marcas y analizamos lo que transmitían los distintos tipos de fuentes. Pensamos que para nuestro proyecto era más adecuado utilizar [Lato](https://fonts.google.com/specimen/Lato?category=Sans+Serif&query=lato) y [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?category=Serif&authuser=1). 
+
+A continuación, redactamos comentarios de usuarios que nos gustaría escuchar. Para ello nos pusimos en la piel de distintos grupos de usuarios y pensamos de qué forma podría ayudarles nuestro proyecto.
+
+Con todo esto, elaboramos una [landing page](https://xd.adobe.com/view/2db3207e-db00-4f65-9419-5f6cd088a22b-78e0/?fullscreen) que mostrara resumidamente a los potenciales usuarios de la aplicación las ventajas que le ofreceríamos.
+Además, creamos el [diseño de la app](https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847-6697/?fullscreen), siguiendo con las principales guías y patrones de diseño.
+
