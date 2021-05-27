@@ -269,7 +269,7 @@ Para verlo pulse [aquí](https://youtu.be/_eJTgeZffRU)
 
 ## Paso 4. Evaluación 
 
-
+Ver la evaluación completa [aquí](https://github.com/JesusGonzalezA/DIU21/tree/master/P4)
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 ![Logo](https://raw.githubusercontent.com/gonzalodelatorree/DIU21/master/logo_large.png)
