@@ -28,7 +28,7 @@ Se considera que aquellas aplicaciones con una puntuación en un test SUS superi
 Como se puede observar, aunque [EcoTravel](https://github.com/jesusgonzaleza/DIU21) arroja mejores resultados en los cuestionarios realizados que [GeoLAND](https://github.com/gonzalodelatorree/DIU21), ambos han recibido una buena valoración.
 
 ## Informe de usabilidad de GeoLAND
-Vea toda la información [aquí](https://github.com/JesusGonzalezA/DIU21/blob/master/P4/Docs/usability_report.pdf)
+Vea toda la información [aquí](https://github.com/JesusGonzalezA/DIU21/blob/master/P4/Docs/P4_UsabReport_B_doneby_ElReencuentro_Wombats.pdf)
 
 
 El grupo de usuarios que ha respondido al cuestionario, a pesar de no ser representativo, está formado por un conjunto de personas que, potencialmente, usarían la aplicación. Podemos analizar que la aplicación GeoLAND genera una impresión buena, debido a que los usuarios no han encontrado problemas serios utilizando el prototipo de la aplicación. Sin embargo, según los datos que nos brinda el cuestionario no llega a ser lo suficientemente atractiva y se debería pulir algunos aspectos de diseño y usabilidad para que la experiencia de usuario se vea potenciada.
