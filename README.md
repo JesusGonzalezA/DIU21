@@ -270,6 +270,7 @@ Para verlo pulse [aquí](https://youtu.be/_eJTgeZffRU)
 ## Paso 4. Evaluación 
 
 Ver la evaluación completa [aquí](https://github.com/JesusGonzalezA/DIU21/tree/master/P4)
+
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 ![Logo](https://raw.githubusercontent.com/gonzalodelatorree/DIU21/master/logo_large.png)
@@ -300,7 +301,7 @@ Ver [aquí](https://github.com/JesusGonzalezA/DIU21/tree/master/P4#A/B-Testing) 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Vea toda la información [aquí](https://github.com/JesusGonzalezA/DIU21/blob/master/P4/Docs/usability_report.pdf)
+Vea toda la información [aquí](https://github.com/JesusGonzalezA/DIU21/blob/master/P4/Docs/P4_UsabReport_B_doneby_ElReencuentro_Wombats.pdf)
 
 **Análisis SUS:** podemos analizar que la aplicación GeoLAND genera una impresión buena, debido a que los usuarios no han encontrado problemas serios utilizando el prototipo de la aplicación. Sin embargo, según los datos que nos brinda el cuestionario no llega a ser lo suficientemente atractiva y se debería pulir algunos aspectos de diseño y usabilidad para que la experiencia de usuario se vea potenciada.
 
