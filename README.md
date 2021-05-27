@@ -272,66 +272,46 @@ Para verlo pulse [aquí](https://youtu.be/_eJTgeZffRU)
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+![Logo](https://raw.githubusercontent.com/gonzalodelatorree/DIU21/master/logo_large.png)
+El proyecto a evaluar es [GeoLAND](https://github.com/gonzalodelatorree/DIU21).
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+Según sus desarrolladores, se trata de una "aplicación desarrollada para que los usuarios puedan gestionar y planificar su visita a la provincia de Granada y Andalucía y así conseguir incentivar el turismo rural y local".
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
+En vez de utilizar usuarios ficticios, hemos difundido nuestros cuestionarios selectivamente y hemos listado la información recogida [aquí](https://github.com/JesusGonzalezA/DIU21/blob/master/P4/Docs/Usuarios.pdf)
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+**Puntuación A ([EcoTravel](https://github.com/jesusgonzaleza/DIU21)):** 87.03125
+**Puntuación B ([GeoLAND](https://github.com/gonzalodelatorree/DIU21)):** 69.54545
+
+Se considera que aquellas aplicaciones con una puntuación en un test SUS superior a 68 han recibido una buena acogida por parte de los usuarios pero podría mejorar. Una puntuación superior a 80 significa que los usuarios aman la app y que existe una alta posibilidad de que sea recomendada entre usuarios.
+Como se puede observar, aunque [EcoTravel](https://github.com/jesusgonzaleza/DIU21) arroja mejores resultados en los cuestionarios realizados que [GeoLAND](https://github.com/gonzalodelatorree/DIU21), ambos han recibido una buena valoración.
+
+
+Ver [aquí](https://github.com/JesusGonzalezA/DIU21/tree/master/P4#A/B-Testing) el informe completo
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Vea toda la información [aquí](https://github.com/JesusGonzalezA/DIU21/blob/master/P4/Docs/usability_report.pdf)
 
+**Análisis SUS:** podemos analizar que la aplicación GeoLAND genera una impresión buena, debido a que los usuarios no han encontrado problemas serios utilizando el prototipo de la aplicación. Sin embargo, según los datos que nos brinda el cuestionario no llega a ser lo suficientemente atractiva y se debería pulir algunos aspectos de diseño y usabilidad para que la experiencia de usuario se vea potenciada.
 
-
->>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+**Valoración personal:** cabe destacar la labor que ha realizado el grupo, elaborando múltiples pantallas que han transmitido muy bien la idea de negocio. Nos ha permitido conocer viendo pocas pantallas del prototipo lo que quieren conseguir con la app y qué funcionalidades pretenden ofrecer. 
 
 
 ## Conclusión final / Valoración de las prácticas
 
+En general, las prácticas de esta asignatura nos han aportado mucho. Hemos aprendido a elaborar un diseño a partir de una idea de negocio centrándonos en los usuarios a los que queríamos enfocar la misma. Además, hemos descubierto la importancia de realizar esta fase de diseño antes de implementar y pensar en todo tipo de usuarios y dispositivos, centrándonos en usabilidad y accesibilidad.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Finalmente, el modelo de trabajo de las prácticas nos ha gustado mucho porque hemos potenciado algunas competencias esenciales como el trabajo en equipo, la proactividad y la comunicación. 
 
 
 
